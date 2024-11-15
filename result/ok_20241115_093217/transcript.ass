@@ -1,0 +1,89 @@
+[Script Info]
+Title: Lyrics
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.74,Default,,0,0,0,,Let's talk about Python. What is it, how does it work, and how you can get started today.
+Dialogue: 0,0:00:05.10,0:00:08.02,Default,,0,0,0,,All of that and more in two minutes. Start the timer.
+Dialogue: 0,0:00:12.26,0:00:17.56,Default,,0,0,0,,Python is a prevalent general purpose programming language often used for machine learning and data analysis.
+Dialogue: 0,0:00:18.12,0:00:23.18,Default,,0,0,0,,Python was created by Guido van Rossum and was first released on February 20th, 1991.
+Dialogue: 0,0:00:23.46,0:00:27.84,Default,,0,0,0,,This language is so influential that in 1999 the Zen of Python was released,
+Dialogue: 0,0:00:27.86,0:00:32.10,Default,,0,0,0,,which is a guiding set of principles for using Python in the utmost Mr. Miyagi way.
+Dialogue: 0,0:00:32.10,0:00:36.96,Default,,0,0,0,,There are numerous reasons why this language is hotter than the Backstreet Boys were in 1997.
+Dialogue: 0,0:00:37.74,0:00:41.36,Default,,0,0,0,,The first being that Python is very readable, like it states in the Zen of Python.
+Dialogue: 0,0:00:41.68,0:00:45.08,Default,,0,0,0,,Simple is better than complex, and that's exactly what the language mirrors.
+Dialogue: 0,0:00:45.40,0:00:49.00,Default,,0,0,0,,Python can also handle a multitude of different jobs, from machine learning,
+Dialogue: 0,0:00:49.14,0:00:52.20,Default,,0,0,0,,to data analytics, web development, testing, and so on.
+Dialogue: 0,0:00:52.46,0:00:56.06,Default,,0,0,0,,There is no need to debate how great this language is. But how can we use it?
+Dialogue: 0,0:00:56.14,0:00:59.56,Default,,0,0,0,,You can download Python on the official Getting Started With Python page.
+Dialogue: 0,0:00:59.56,0:01:05.76,Default,,0,0,0,,Once downloaded, creating a file with Python is as easy as naming the file and ending it with .py.
+Dialogue: 0,0:01:05.94,0:01:07.94,Default,,0,0,0,,These files are also referred to as modules.
+Dialogue: 0,0:01:08.26,0:01:11.30,Default,,0,0,0,,Then all you need to do is print hello world and there you go.
+Dialogue: 0,0:01:11.48,0:01:13.98,Default,,0,0,0,,You can brag to all your friends that you are the next Bill Gates.
+Dialogue: 0,0:01:14.96,0:01:17.86,Default,,0,0,0,,You have probably heard of interpreted versus compiled, right?
+Dialogue: 0,0:01:18.32,0:01:22.60,Default,,0,0,0,,Well, Python is an interpreted language, which means the source code is converted into
+Dialogue: 0,0:01:22.60,0:01:25.94,Default,,0,0,0,,byte code that is then executed by the Python virtual machine.
+Dialogue: 0,0:01:25.94,0:01:30.44,Default,,0,0,0,,This equates to Python being extremely fast to develop, but not so fast during the execution
+Dialogue: 0,0:01:30.44,0:01:33.92,Default,,0,0,0,,step since the code is not directly compiled and executed.
+Dialogue: 0,0:01:34.20,0:01:35.50,Default,,0,0,0,,But why should we learn Python?
+Dialogue: 0,0:01:35.94,0:01:40.10,Default,,0,0,0,,Probably the most important answer to that is just how beginner-friendly the language is.
+Dialogue: 0,0:01:40.22,0:01:44.52,Default,,0,0,0,,If you're brand new to web development, my recommendation is either learn Python or JavaScript.
+Dialogue: 0,0:01:44.90,0:01:46.04,Default,,0,0,0,,You can't go wrong with either.
+Dialogue: 0,0:01:46.18,0:01:49.44,Default,,0,0,0,,As we mentioned before, Python is also extremely versatile.
+Dialogue: 0,0:01:49.60,0:01:52.14,Default,,0,0,0,,You can do so many different tasks with just one language.
+Dialogue: 0,0:01:52.30,0:01:55.14,Default,,0,0,0,,Lastly, Python developers are extremely in demand.
+Dialogue: 0,0:01:55.14,0:02:00.44,Default,,0,0,0,,There are 36,000 job postings on Zippercrooter at this current moment for entry-level Python
+Dialogue: 0,0:02:00.44,0:02:00.94,Default,,0,0,0,,developers.
+Dialogue: 0,0:02:01.34,0:02:04.62,Default,,0,0,0,,If you want to learn Python and fully master one of the most relevant languages
+Dialogue: 0,0:02:04.62,0:02:07.72,Default,,0,0,0,,in the world of development, check out Zero2Mastery's complete
+Dialogue: 0,0:02:07.72,0:02:11.96,Default,,0,0,0,,Python Developer Bootcamp course, where you'll go from beginner to expert.
+
+[Script Info]
+Title: Lời thoại
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.74,Default,,0,0,0,,Hãy cùng nói về Python. Nó là gì, hoạt động như thế nào, và bạn có thể bắt đầu ra sao.
+Dialogue: 0,0:00:05.10,0:00:08.02,Default,,0,0,0,,Tất cả những điều đó và nhiều hơn nữa sẽ được nói đến trong hai phút. Bắt đầu nào.
+Dialogue: 0,0:00:12.26,0:00:17.56,Default,,0,0,0,,Python là một ngôn ngữ lập trình đa năng phổ biến, thường được dùng cho học máy và phân tích dữ liệu.
+Dialogue: 0,0:00:18.12,0:00:23.18,Default,,0,0,0,,Python được tạo bởi Guido van Rossum và lần đầu phát hành vào ngày 20 tháng 2 năm 1991.
+Dialogue: 0,0:00:23.46,0:00:27.84,Default,,0,0,0,,Ngôn ngữ này có sức ảnh hưởng đến mức năm 1999 đã xuất hiện Zen của Python,
+Dialogue: 0,0:00:27.86,0:00:32.10,Default,,0,0,0,,một bộ nguyên tắc hướng dẫn sử dụng Python một cách tối ưu như ông Miyagi.
+Dialogue: 0,0:00:32.10,0:00:36.96,Default,,0,0,0,,Có rất nhiều lý do khiến Python "hot" như Backstreet Boys năm 1997.
+Dialogue: 0,0:00:37.74,0:00:41.36,Default,,0,0,0,,Lý do đầu tiên là Python rất dễ đọc, như Zen của Python đã nói.
+Dialogue: 0,0:00:41.68,0:00:45.08,Default,,0,0,0,,Đơn giản thì tốt hơn phức tạp, và ngôn ngữ này phản ánh chính điều đó.
+Dialogue: 0,0:00:45.40,0:00:49.00,Default,,0,0,0,,Python cũng có thể xử lý nhiều công việc khác nhau, từ học máy,
+Dialogue: 0,0:00:49.14,0:00:52.20,Default,,0,0,0,,đến phân tích dữ liệu, phát triển web, kiểm thử và nhiều hơn nữa.
+Dialogue: 0,0:00:52.46,0:00:56.06,Default,,0,0,0,,Không cần tranh cãi về độ tuyệt vời của Python. Nhưng làm thế nào để sử dụng nó?
+Dialogue: 0,0:00:56.14,0:00:59.56,Default,,0,0,0,,Bạn có thể tải Python từ trang web chính thức Bắt đầu với Python.
+Dialogue: 0,0:00:59.56,0:01:05.76,Default,,0,0,0,,Sau khi tải về, tạo một file với Python đơn giản chỉ là đặt tên file và kết thúc bằng .py.
+Dialogue: 0,0:01:05.94,0:01:07.94,Default,,0,0,0,,Những file này cũng được gọi là modules.
+Dialogue: 0,0:01:08.26,0:01:11.30,Default,,0,0,0,,Sau đó, chỉ cần in ra "Hello World" và thế là xong.
+Dialogue: 0,0:01:11.48,0:01:13.98,Default,,0,0,0,,Bạn có thể khoe với bạn bè rằng bạn là Bill Gates tiếp theo.
+Dialogue: 0,0:01:14.96,0:01:17.86,Default,,0,0,0,,Chắc bạn đã từng nghe về ngôn ngữ thông dịch và ngôn ngữ biên dịch, đúng không?
+Dialogue: 0,0:01:18.32,0:01:22.60,Default,,0,0,0,,Vâng, Python là ngôn ngữ thông dịch, có nghĩa là mã nguồn được chuyển thành
+Dialogue: 0,0:01:22.60,0:01:25.94,Default,,0,0,0,,bytecode và sau đó thực thi bởi máy ảo Python.
+Dialogue: 0,0:01:25.94,0:01:30.44,Default,,0,0,0,,Điều này giúp Python phát triển rất nhanh, nhưng không nhanh lắm trong quá trình thực thi
+Dialogue: 0,0:01:30.44,0:01:33.92,Default,,0,0,0,,vì mã nguồn không được biên dịch và thực thi trực tiếp.
+Dialogue: 0,0:01:34.20,0:01:35.50,Default,,0,0,0,,Vậy tại sao chúng ta nên học Python?
+Dialogue: 0,0:01:35.94,0:01:40.10,Default,,0,0,0,,Câu trả lời quan trọng nhất có lẽ là ngôn ngữ này rất thân thiện với người mới học.
+Dialogue: 0,0:01:40.22,0:01:44.52,Default,,0,0,0,,Nếu bạn mới bắt đầu với lập trình web, tôi khuyên bạn học Python hoặc JavaScript.
+Dialogue: 0,0:01:44.90,0:01:46.04,Default,,0,0,0,,Học cái nào cũng không sai.
+Dialogue: 0,0:01:46.18,0:01:49.44,Default,,0,0,0,,Như đã nói trước, Python cũng cực kỳ linh hoạt.
+Dialogue: 0,0:01:49.60,0:01:52.14,Default,,0,0,0,,Bạn có thể làm nhiều công việc khác nhau chỉ với một ngôn ngữ.
+Dialogue: 0,0:01:52.30,0:01:55.14,Default,,0,0,0,,Cuối cùng, các lập trình viên Python cực kỳ được săn đón.
+Dialogue: 0,0:01:55.14,0:02:00.44,Default,,0,0,0,,Hiện có 36.000 tin tuyển dụng trên Zippercrooter cho vị trí lập trình viên Python
+Dialogue: 0,0:02:00.44,0:02:00.94,Default,,0,0,0,,cấp entry-level.
+Dialogue: 0,0:02:01.34,0:02:04.62,Default,,0,0,0,,Nếu bạn muốn học Python và làm chủ một trong những ngôn ngữ
+Dialogue: 0,0:02:04.62,0:02:07.72,Default,,0,0,0,,quan trọng nhất trong thế giới lập trình, hãy tham khảo khóa học Python Developer Bootcamp của Zero2Mastery,
+Dialogue: 0,0:02:07.72,0:02:11.96,Default,,0,0,0,,nơi bạn sẽ từ người mới bắt đầu đến chuyên gia.

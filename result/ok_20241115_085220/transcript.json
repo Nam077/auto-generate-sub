@@ -1,0 +1,1985 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "sentences": [
+      {
+        "words": [
+          {
+            "startTime": 0,
+            "endTime": 960,
+            "data": " Điều"
+          },
+          {
+            "startTime": 960,
+            "endTime": 1980,
+            "data": " đó"
+          },
+          {
+            "startTime": 1980,
+            "endTime": 5780,
+            "data": " và"
+          },
+          {
+            "startTime": 5780,
+            "endTime": 6040,
+            "data": " nhiều"
+          },
+          {
+            "startTime": 6040,
+            "endTime": 6240,
+            "data": " hơn"
+          },
+          {
+            "startTime": 6240,
+            "endTime": 6380,
+            "data": " trong"
+          },
+          {
+            "startTime": 6380,
+            "endTime": 6640,
+            "data": " 2"
+          },
+          {
+            "startTime": 6640,
+            "endTime": 6940,
+            "data": " phút."
+          },
+          {
+            "startTime": 7240,
+            "endTime": 7440,
+            "data": " Để"
+          },
+          {
+            "startTime": 7440,
+            "endTime": 7540,
+            "data": " bắt"
+          },
+          {
+            "startTime": 7540,
+            "endTime": 7540,
+            "data": " đầu"
+          },
+          {
+            "startTime": 7540,
+            "endTime": 7900,
+            "data": " tài"
+          },
+          {
+            "startTime": 7900,
+            "endTime": 7900,
+            "data": " liệu."
+          }
+        ],
+        "startTime": 0,
+        "endTime": 7900,
+        "rawText": "Điều đó và nhiều hơn trong 2 phút. Để bắt đầu tài liệu."
+      },
+      {
+        "words": [
+          {
+            "startTime": 11260,
+            "endTime": 12640,
+            "data": " Python"
+          },
+          {
+            "startTime": 12640,
+            "endTime": 12940,
+            "data": " là"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 12940,
+            "data": " một"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 12940,
+            "data": " dạng"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 12940,
+            "data": " dạng"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 12940,
+            "data": " dạng"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 12940,
+            "data": " tài"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 12940,
+            "data": " liệu"
+          },
+          {
+            "startTime": 12940,
+            "endTime": 14220,
+            "data": " dân"
+          },
+          {
+            "startTime": 14220,
+            "endTime": 14220,
+            "data": " dân"
+          },
+          {
+            "startTime": 14220,
+            "endTime": 14300,
+            "data": " dân"
+          },
+          {
+            "startTime": 14300,
+            "endTime": 14480,
+            "data": " dạng"
+          },
+          {
+            "startTime": 14480,
+            "endTime": 15560,
+            "data": " dạng"
+          },
+          {
+            "startTime": 15560,
+            "endTime": 16540,
+            "data": " dạng"
+          },
+          {
+            "startTime": 16540,
+            "endTime": 17600,
+            "data": " dạng"
+          },
+          {
+            "startTime": 17600,
+            "endTime": 17600,
+            "data": " dạng"
+          },
+          {
+            "startTime": 17600,
+            "endTime": 17600,
+            "data": " dạng"
+          },
+          {
+            "startTime": 17600,
+            "endTime": 18960,
+            "data": " dạng"
+          },
+          {
+            "startTime": 18960,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21200,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21220,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21220,
+            "endTime": 21260,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21260,
+            "endTime": 21260,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21260,
+            "endTime": 21660,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21660,
+            "endTime": 21660,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21660,
+            "endTime": 21660,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21660,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 21980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 21980,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22000,
+            "endTime": 22120,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22120,
+            "endTime": 22120,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22120,
+            "endTime": 22620,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22620,
+            "endTime": 22900,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22900,
+            "endTime": 22900,
+            "data": " dạng"
+          },
+          {
+            "startTime": 22900,
+            "endTime": 25920,
+            "data": " dạng"
+          },
+          {
+            "startTime": 25920,
+            "endTime": 36720,
+            "data": " dạng"
+          }
+        ],
+        "startTime": 11260,
+        "endTime": 36720,
+        "rawText": "Python là một dạng dạng dạng tài liệu dân dân dân dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng"
+      },
+      {
+        "words": [
+          {
+            "startTime": 42240,
+            "endTime": 43160,
+            "data": " dạng"
+          },
+          {
+            "startTime": 43160,
+            "endTime": 44080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 44080,
+            "endTime": 45180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 45180,
+            "endTime": 47980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 47980,
+            "endTime": 49060,
+            "data": " dạng"
+          },
+          {
+            "startTime": 49060,
+            "endTime": 52260,
+            "data": " dạng"
+          },
+          {
+            "startTime": 52260,
+            "endTime": 54560,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54560,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54800,
+            "endTime": 54840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54840,
+            "endTime": 54840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54840,
+            "endTime": 54840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54840,
+            "endTime": 54840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54840,
+            "endTime": 54880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54880,
+            "endTime": 54880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54880,
+            "endTime": 54880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54880,
+            "endTime": 54880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 54880,
+            "endTime": 55340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 55340,
+            "endTime": 56080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56080,
+            "endTime": 56100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56100,
+            "endTime": 56100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56100,
+            "endTime": 56100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56100,
+            "endTime": 56100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56100,
+            "endTime": 56100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56100,
+            "endTime": 56100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 56100,
+            "endTime": 57060,
+            "data": " dạng"
+          },
+          {
+            "startTime": 57060,
+            "endTime": 57740,
+            "data": " dạng"
+          },
+          {
+            "startTime": 57740,
+            "endTime": 57740,
+            "data": " dạng"
+          },
+          {
+            "startTime": 57740,
+            "endTime": 57740,
+            "data": " dạng"
+          },
+          {
+            "startTime": 57740,
+            "endTime": 57980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 57980,
+            "endTime": 58000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58000,
+            "endTime": 58000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58000,
+            "endTime": 58000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58000,
+            "endTime": 58000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58000,
+            "endTime": 58040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58040,
+            "endTime": 58040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58040,
+            "endTime": 58040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58040,
+            "endTime": 58040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58040,
+            "endTime": 58040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58040,
+            "endTime": 58040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 58040,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59840,
+            "endTime": 59880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 59880,
+            "endTime": 61200,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61200,
+            "endTime": 61440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61440,
+            "endTime": 61880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61880,
+            "endTime": 61880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61880,
+            "endTime": 61880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61880,
+            "endTime": 61880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61880,
+            "endTime": 61880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 61880,
+            "endTime": 62320,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62320,
+            "endTime": 62500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62500,
+            "endTime": 62500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62500,
+            "endTime": 62500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62500,
+            "endTime": 62500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62500,
+            "endTime": 62500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62500,
+            "endTime": 62920,
+            "data": " dạng"
+          },
+          {
+            "startTime": 62920,
+            "endTime": 66220,
+            "data": " dạ"
+          }
+        ],
+        "startTime": 42240,
+        "endTime": 66220,
+        "rawText": "dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạ"
+      },
+      {
+        "words": [
+          {
+            "startTime": 66220,
+            "endTime": 66420,
+            "data": " dạng"
+          },
+          {
+            "startTime": 66420,
+            "endTime": 67320,
+            "data": " dạng"
+          },
+          {
+            "startTime": 67320,
+            "endTime": 68000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 68000,
+            "endTime": 69400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 69400,
+            "endTime": 69840,
+            "data": " dạng"
+          },
+          {
+            "startTime": 69840,
+            "endTime": 71400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 71400,
+            "endTime": 78280,
+            "data": " dạng"
+          },
+          {
+            "startTime": 78280,
+            "endTime": 79000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 79000,
+            "endTime": 79540,
+            "data": " dạng"
+          },
+          {
+            "startTime": 79540,
+            "endTime": 80040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80040,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80080,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80180,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80300,
+            "endTime": 80380,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80380,
+            "endTime": 80380,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80380,
+            "endTime": 80380,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80380,
+            "endTime": 80380,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80380,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 80400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 80400,
+            "endTime": 95280,
+            "data": " dạ"
+          }
+        ],
+        "startTime": 66220,
+        "endTime": 95280,
+        "rawText": "dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạ"
+      },
+      {
+        "words": [
+          {
+            "startTime": 95280,
+            "endTime": 96400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 96400,
+            "endTime": 97360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 97360,
+            "endTime": 98000,
+            "data": " dạng"
+          },
+          {
+            "startTime": 98000,
+            "endTime": 100180,
+            "data": " dạng"
+          },
+          {
+            "startTime": 100180,
+            "endTime": 109500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 109500,
+            "endTime": 115040,
+            "data": " dạng"
+          },
+          {
+            "startTime": 115040,
+            "endTime": 117420,
+            "data": " dạng"
+          },
+          {
+            "startTime": 117420,
+            "endTime": 118080,
+            "data": " dạng"
+          },
+          {
+            "startTime": 118080,
+            "endTime": 119060,
+            "data": " dạng"
+          },
+          {
+            "startTime": 119060,
+            "endTime": 119880,
+            "data": " dạng"
+          },
+          {
+            "startTime": 119880,
+            "endTime": 119920,
+            "data": " dạng"
+          },
+          {
+            "startTime": 119920,
+            "endTime": 119940,
+            "data": " dạng"
+          },
+          {
+            "startTime": 119940,
+            "endTime": 120300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120300,
+            "endTime": 120300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120300,
+            "endTime": 120340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120340,
+            "endTime": 120340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120340,
+            "endTime": 120340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120340,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120360,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120360,
+            "endTime": 120400,
+            "data": " dạng"
+          },
+          {
+            "startTime": 120400,
+            "endTime": 121020,
+            "data": " dạng"
+          },
+          {
+            "startTime": 121020,
+            "endTime": 121020,
+            "data": " dạng"
+          },
+          {
+            "startTime": 121020,
+            "endTime": 121020,
+            "data": " dạng"
+          },
+          {
+            "startTime": 121020,
+            "endTime": 121920,
+            "data": " dạng"
+          },
+          {
+            "startTime": 121920,
+            "endTime": 122440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 122440,
+            "endTime": 123320,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123320,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123460,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123460,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 123760,
+            "data": " dạng"
+          },
+          {
+            "startTime": 123760,
+            "endTime": 124140,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124140,
+            "endTime": 124140,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124140,
+            "endTime": 124140,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124140,
+            "endTime": 124140,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124140,
+            "endTime": 124500,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124500,
+            "endTime": 124780,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124780,
+            "endTime": 124900,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124900,
+            "endTime": 124900,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124900,
+            "endTime": 124920,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124920,
+            "endTime": 124920,
+            "data": " dạng"
+          },
+          {
+            "startTime": 124920,
+            "endTime": 125060,
+            "data": " dạng"
+          },
+          {
+            "startTime": 125060,
+            "endTime": 125120,
+            "data": " dạng"
+          },
+          {
+            "startTime": 125120,
+            "endTime": 125260,
+            "data": " dạng"
+          },
+          {
+            "startTime": 125260,
+            "endTime": 125260,
+            "data": " dạng"
+          },
+          {
+            "startTime": 125260,
+            "endTime": 125260,
+            "data": " dạ"
+          }
+        ],
+        "startTime": 95280,
+        "endTime": 125260,
+        "rawText": "dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạ"
+      },
+      {
+        "words": [
+          {
+            "startTime": 126540,
+            "endTime": 126980,
+            "data": " dạng"
+          },
+          {
+            "startTime": 126980,
+            "endTime": 127100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127100,
+            "endTime": 127300,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127300,
+            "endTime": 127440,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127440,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 127580,
+            "data": " dạng"
+          },
+          {
+            "startTime": 127580,
+            "endTime": 128160,
+            "data": " dạng"
+          },
+          {
+            "startTime": 128160,
+            "endTime": 128620,
+            "data": " dạng"
+          },
+          {
+            "startTime": 128620,
+            "endTime": 128620,
+            "data": " dạng"
+          },
+          {
+            "startTime": 128620,
+            "endTime": 128639,
+            "data": " dạng"
+          },
+          {
+            "startTime": 128639,
+            "endTime": 128860,
+            "data": " dạng"
+          },
+          {
+            "startTime": 128860,
+            "endTime": 129039,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129039,
+            "endTime": 129259,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129259,
+            "endTime": 129380,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129380,
+            "endTime": 129860,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129860,
+            "endTime": 129860,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129860,
+            "endTime": 129860,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129860,
+            "endTime": 129860,
+            "data": " dạng"
+          },
+          {
+            "startTime": 129860,
+            "endTime": 130600,
+            "data": " dạng"
+          },
+          {
+            "startTime": 130600,
+            "endTime": 130600,
+            "data": " dạng"
+          },
+          {
+            "startTime": 130600,
+            "endTime": 130800,
+            "data": " dạng"
+          },
+          {
+            "startTime": 130800,
+            "endTime": 131120,
+            "data": " dạng"
+          },
+          {
+            "startTime": 131120,
+            "endTime": 131340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 131340,
+            "endTime": 131540,
+            "data": " dạng"
+          },
+          {
+            "startTime": 131540,
+            "endTime": 131860,
+            "data": " dạng"
+          },
+          {
+            "startTime": 131860,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132100,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132100,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạng"
+          },
+          {
+            "startTime": 132340,
+            "endTime": 132340,
+            "data": " dạ"
+          }
+        ],
+        "startTime": 126540,
+        "endTime": 132340,
+        "rawText": "dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạng dạ"
+      }
+    ]
+  }
+}

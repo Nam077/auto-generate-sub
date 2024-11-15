@@ -1,0 +1,34 @@
+[00:00:00,000] Let's talk about Python. What is it, how does it work, and how you can get started today.
+[00:00:05,099] All of that and more in two minutes. Start the timer.
+[00:00:12,259] Python is a prevalent general purpose programming language often used for machine learning and data analysis.
+[00:00:18,120] Python was created by Guido van Rossum and was first released on February 20th, 1991.
+[00:00:23,460] This language is so influential that in 1999 the Zen of Python was released,
+[00:00:27,859] which is a guiding set of principles for using Python in the utmost Mr. Miyagi way.
+[00:00:32,100] There are numerous reasons why this language is hotter than the Backstreet Boys were in 1997.
+[00:00:37,740] The first being that Python is very readable, like it states in the Zen of Python.
+[00:00:41,679] Simple is better than complex, and that's exactly what the language mirrors.
+[00:00:45,399] Python can also handle a multitude of different jobs, from machine learning,
+[00:00:49,140] to data analytics, web development, testing, and so on.
+[00:00:52,460] There is no need to debate how great this language is. But how can we use it?
+[00:00:56,140] You can download Python on the official Getting Started With Python page.
+[00:00:59,560] Once downloaded, creating a file with Python is as easy as naming the file and ending it with .py.
+[00:01:05,939] These files are also referred to as modules.
+[00:01:08,260] Then all you need to do is print hello world and there you go.
+[00:01:11,480] You can brag to all your friends that you are the next Bill Gates.
+[00:01:14,959] You have probably heard of interpreted versus compiled, right?
+[00:01:18,319] Well, Python is an interpreted language, which means the source code is converted into
+[00:01:22,599] byte code that is then executed by the Python virtual machine.
+[00:01:25,939] This equates to Python being extremely fast to develop, but not so fast during the execution
+[00:01:30,439] step since the code is not directly compiled and executed.
+[00:01:34,200] But why should we learn Python?
+[00:01:35,939] Probably the most important answer to that is just how beginner-friendly the language is.
+[00:01:40,219] If you're brand new to web development, my recommendation is either learn Python or JavaScript.
+[00:01:44,900] You can't go wrong with either.
+[00:01:46,180] As we mentioned before, Python is also extremely versatile.
+[00:01:49,599] You can do so many different tasks with just one language.
+[00:01:52,299] Lastly, Python developers are extremely in demand.
+[00:01:55,140] There are 36,000 job postings on Zippercrooter at this current moment for entry-level Python
+[00:02:00,439] developers.
+[00:02:01,340] If you want to learn Python and fully master one of the most relevant languages
+[00:02:04,620] in the world of development, check out Zero2Mastery's complete
+[00:02:07,719] Python Developer Bootcamp course, where you'll go from beginner to expert.

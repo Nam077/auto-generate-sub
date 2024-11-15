@@ -1,0 +1,2346 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "sentences": [
+      {
+        "words": [
+          {
+            "startTime": 0,
+            "endTime": 540,
+            "data": " Let's"
+          },
+          {
+            "startTime": 540,
+            "endTime": 800,
+            "data": " talk"
+          },
+          {
+            "startTime": 800,
+            "endTime": 1060,
+            "data": " about"
+          },
+          {
+            "startTime": 1060,
+            "endTime": 1540,
+            "data": " Python."
+          },
+          {
+            "startTime": 1760,
+            "endTime": 2000,
+            "data": " What"
+          },
+          {
+            "startTime": 2000,
+            "endTime": 2200,
+            "data": " is"
+          },
+          {
+            "startTime": 2200,
+            "endTime": 2380,
+            "data": " it,"
+          },
+          {
+            "startTime": 2420,
+            "endTime": 2640,
+            "data": " how"
+          },
+          {
+            "startTime": 2640,
+            "endTime": 2840,
+            "data": " does"
+          },
+          {
+            "startTime": 2840,
+            "endTime": 3020,
+            "data": " it"
+          },
+          {
+            "startTime": 3020,
+            "endTime": 3300,
+            "data": " work,"
+          },
+          {
+            "startTime": 3440,
+            "endTime": 3540,
+            "data": " and"
+          },
+          {
+            "startTime": 3540,
+            "endTime": 3660,
+            "data": " how"
+          },
+          {
+            "startTime": 3660,
+            "endTime": 3760,
+            "data": " you"
+          },
+          {
+            "startTime": 3760,
+            "endTime": 3880,
+            "data": " can"
+          },
+          {
+            "startTime": 3880,
+            "endTime": 4160,
+            "data": " get"
+          },
+          {
+            "startTime": 4160,
+            "endTime": 4380,
+            "data": " started"
+          },
+          {
+            "startTime": 4380,
+            "endTime": 4740,
+            "data": " today."
+          }
+        ],
+        "startTime": 0,
+        "endTime": 4740,
+        "rawText": "Let's talk about Python. What is it, how does it work, and how you can get started today."
+      },
+      {
+        "words": [
+          {
+            "startTime": 5100,
+            "endTime": 5240,
+            "data": " All"
+          },
+          {
+            "startTime": 5240,
+            "endTime": 5400,
+            "data": " of"
+          },
+          {
+            "startTime": 5400,
+            "endTime": 5620,
+            "data": " that"
+          },
+          {
+            "startTime": 5620,
+            "endTime": 5860,
+            "data": " and"
+          },
+          {
+            "startTime": 5860,
+            "endTime": 6200,
+            "data": " more"
+          },
+          {
+            "startTime": 6200,
+            "endTime": 6380,
+            "data": " in"
+          },
+          {
+            "startTime": 6380,
+            "endTime": 6640,
+            "data": " two"
+          },
+          {
+            "startTime": 6640,
+            "endTime": 6960,
+            "data": " minutes."
+          },
+          {
+            "startTime": 7240,
+            "endTime": 7460,
+            "data": " Start"
+          },
+          {
+            "startTime": 7460,
+            "endTime": 7720,
+            "data": " the"
+          },
+          {
+            "startTime": 7720,
+            "endTime": 8020,
+            "data": " timer."
+          }
+        ],
+        "startTime": 5100,
+        "endTime": 8020,
+        "rawText": "All of that and more in two minutes. Start the timer."
+      },
+      {
+        "words": [
+          {
+            "startTime": 12260,
+            "endTime": 12600,
+            "data": " Python"
+          },
+          {
+            "startTime": 12600,
+            "endTime": 12840,
+            "data": " is"
+          },
+          {
+            "startTime": 12840,
+            "endTime": 13020,
+            "data": " a"
+          },
+          {
+            "startTime": 13020,
+            "endTime": 13280,
+            "data": " prevalent"
+          },
+          {
+            "startTime": 13280,
+            "endTime": 13640,
+            "data": " general"
+          },
+          {
+            "startTime": 13640,
+            "endTime": 14000,
+            "data": " purpose"
+          },
+          {
+            "startTime": 14000,
+            "endTime": 14420,
+            "data": " programming"
+          },
+          {
+            "startTime": 14420,
+            "endTime": 14820,
+            "data": " language"
+          },
+          {
+            "startTime": 14820,
+            "endTime": 15260,
+            "data": " often"
+          },
+          {
+            "startTime": 15260,
+            "endTime": 15560,
+            "data": " used"
+          },
+          {
+            "startTime": 15560,
+            "endTime": 15760,
+            "data": " for"
+          },
+          {
+            "startTime": 15760,
+            "endTime": 16079,
+            "data": " machine"
+          },
+          {
+            "startTime": 16079,
+            "endTime": 16480,
+            "data": " learning"
+          },
+          {
+            "startTime": 16480,
+            "endTime": 16760,
+            "data": " and"
+          },
+          {
+            "startTime": 16760,
+            "endTime": 17020,
+            "data": " data"
+          },
+          {
+            "startTime": 17020,
+            "endTime": 17560,
+            "data": " analysis."
+          }
+        ],
+        "startTime": 12260,
+        "endTime": 17560,
+        "rawText": "Python is a prevalent general purpose programming language often used for machine learning and data analysis."
+      },
+      {
+        "words": [
+          {
+            "startTime": 18120,
+            "endTime": 18340,
+            "data": " Python"
+          },
+          {
+            "startTime": 18340,
+            "endTime": 18540,
+            "data": " was"
+          },
+          {
+            "startTime": 18540,
+            "endTime": 18920,
+            "data": " created"
+          },
+          {
+            "startTime": 18920,
+            "endTime": 19180,
+            "data": " by"
+          },
+          {
+            "startTime": 19180,
+            "endTime": 19440,
+            "data": " Guido"
+          },
+          {
+            "startTime": 19440,
+            "endTime": 19680,
+            "data": " van"
+          },
+          {
+            "startTime": 19680,
+            "endTime": 20080,
+            "data": " Rossum"
+          },
+          {
+            "startTime": 20080,
+            "endTime": 20280,
+            "data": " and"
+          },
+          {
+            "startTime": 20280,
+            "endTime": 20500,
+            "data": " was"
+          },
+          {
+            "startTime": 20500,
+            "endTime": 20780,
+            "data": " first"
+          },
+          {
+            "startTime": 20780,
+            "endTime": 21100,
+            "data": " released"
+          },
+          {
+            "startTime": 21100,
+            "endTime": 21340,
+            "data": " on"
+          },
+          {
+            "startTime": 21340,
+            "endTime": 21700,
+            "data": " February"
+          },
+          {
+            "startTime": 21700,
+            "endTime": 22460,
+            "data": " 20th,"
+          },
+          {
+            "startTime": 22460,
+            "endTime": 23180,
+            "data": " 1991."
+          }
+        ],
+        "startTime": 18120,
+        "endTime": 23180,
+        "rawText": "Python was created by Guido van Rossum and was first released on February 20th, 1991."
+      },
+      {
+        "words": [
+          {
+            "startTime": 23460,
+            "endTime": 23700,
+            "data": " This"
+          },
+          {
+            "startTime": 23700,
+            "endTime": 23980,
+            "data": " language"
+          },
+          {
+            "startTime": 23980,
+            "endTime": 24200,
+            "data": " is"
+          },
+          {
+            "startTime": 24200,
+            "endTime": 24380,
+            "data": " so"
+          },
+          {
+            "startTime": 24380,
+            "endTime": 24860,
+            "data": " influential"
+          },
+          {
+            "startTime": 24860,
+            "endTime": 25340,
+            "data": " that"
+          },
+          {
+            "startTime": 25340,
+            "endTime": 25680,
+            "data": " in"
+          },
+          {
+            "startTime": 25680,
+            "endTime": 26320,
+            "data": " 1999"
+          },
+          {
+            "startTime": 26320,
+            "endTime": 26560,
+            "data": " the"
+          },
+          {
+            "startTime": 26560,
+            "endTime": 26700,
+            "data": " Zen"
+          },
+          {
+            "startTime": 26700,
+            "endTime": 26800,
+            "data": " of"
+          },
+          {
+            "startTime": 26800,
+            "endTime": 27100,
+            "data": " Python"
+          },
+          {
+            "startTime": 27100,
+            "endTime": 27380,
+            "data": " was"
+          },
+          {
+            "startTime": 27380,
+            "endTime": 27840,
+            "data": " released,"
+          }
+        ],
+        "startTime": 23460,
+        "endTime": 27840,
+        "rawText": "This language is so influential that in 1999 the Zen of Python was released,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 27860,
+            "endTime": 28060,
+            "data": " which"
+          },
+          {
+            "startTime": 28060,
+            "endTime": 28260,
+            "data": " is"
+          },
+          {
+            "startTime": 28260,
+            "endTime": 28360,
+            "data": " a"
+          },
+          {
+            "startTime": 28360,
+            "endTime": 28560,
+            "data": " guiding"
+          },
+          {
+            "startTime": 28560,
+            "endTime": 28740,
+            "data": " set"
+          },
+          {
+            "startTime": 28740,
+            "endTime": 28940,
+            "data": " of"
+          },
+          {
+            "startTime": 28940,
+            "endTime": 29220,
+            "data": " principles"
+          },
+          {
+            "startTime": 29220,
+            "endTime": 29460,
+            "data": " for"
+          },
+          {
+            "startTime": 29460,
+            "endTime": 29700,
+            "data": " using"
+          },
+          {
+            "startTime": 29700,
+            "endTime": 30160,
+            "data": " Python"
+          },
+          {
+            "startTime": 30160,
+            "endTime": 30400,
+            "data": " in"
+          },
+          {
+            "startTime": 30400,
+            "endTime": 30580,
+            "data": " the"
+          },
+          {
+            "startTime": 30580,
+            "endTime": 30980,
+            "data": " utmost"
+          },
+          {
+            "startTime": 30980,
+            "endTime": 31360,
+            "data": " Mr."
+          },
+          {
+            "startTime": 31420,
+            "endTime": 31820,
+            "data": " Miyagi"
+          },
+          {
+            "startTime": 31820,
+            "endTime": 32100,
+            "data": " way."
+          }
+        ],
+        "startTime": 27860,
+        "endTime": 32100,
+        "rawText": "which is a guiding set of principles for using Python in the utmost Mr. Miyagi way."
+      },
+      {
+        "words": [
+          {
+            "startTime": 32100,
+            "endTime": 32560,
+            "data": " There"
+          },
+          {
+            "startTime": 32560,
+            "endTime": 32860,
+            "data": " are"
+          },
+          {
+            "startTime": 32860,
+            "endTime": 33240,
+            "data": " numerous"
+          },
+          {
+            "startTime": 33240,
+            "endTime": 33620,
+            "data": " reasons"
+          },
+          {
+            "startTime": 33620,
+            "endTime": 33860,
+            "data": " why"
+          },
+          {
+            "startTime": 33860,
+            "endTime": 34040,
+            "data": " this"
+          },
+          {
+            "startTime": 34040,
+            "endTime": 34280,
+            "data": " language"
+          },
+          {
+            "startTime": 34280,
+            "endTime": 34540,
+            "data": " is"
+          },
+          {
+            "startTime": 34540,
+            "endTime": 34680,
+            "data": " hotter"
+          },
+          {
+            "startTime": 34680,
+            "endTime": 34880,
+            "data": " than"
+          },
+          {
+            "startTime": 34880,
+            "endTime": 35080,
+            "data": " the"
+          },
+          {
+            "startTime": 35080,
+            "endTime": 35380,
+            "data": " Backstreet"
+          },
+          {
+            "startTime": 35380,
+            "endTime": 35600,
+            "data": " Boys"
+          },
+          {
+            "startTime": 35600,
+            "endTime": 35860,
+            "data": " were"
+          },
+          {
+            "startTime": 35860,
+            "endTime": 36020,
+            "data": " in"
+          },
+          {
+            "startTime": 36020,
+            "endTime": 36960,
+            "data": " 1997."
+          }
+        ],
+        "startTime": 32100,
+        "endTime": 36960,
+        "rawText": "There are numerous reasons why this language is hotter than the Backstreet Boys were in 1997."
+      },
+      {
+        "words": [
+          {
+            "startTime": 37740,
+            "endTime": 37740,
+            "data": " The"
+          },
+          {
+            "startTime": 37740,
+            "endTime": 37960,
+            "data": " first"
+          },
+          {
+            "startTime": 37960,
+            "endTime": 38200,
+            "data": " being"
+          },
+          {
+            "startTime": 38200,
+            "endTime": 38420,
+            "data": " that"
+          },
+          {
+            "startTime": 38420,
+            "endTime": 38700,
+            "data": " Python"
+          },
+          {
+            "startTime": 38700,
+            "endTime": 38840,
+            "data": " is"
+          },
+          {
+            "startTime": 38840,
+            "endTime": 39180,
+            "data": " very"
+          },
+          {
+            "startTime": 39180,
+            "endTime": 39480,
+            "data": " readable,"
+          },
+          {
+            "startTime": 39820,
+            "endTime": 39940,
+            "data": " like"
+          },
+          {
+            "startTime": 39940,
+            "endTime": 40180,
+            "data": " it"
+          },
+          {
+            "startTime": 40180,
+            "endTime": 40340,
+            "data": " states"
+          },
+          {
+            "startTime": 40340,
+            "endTime": 40500,
+            "data": " in"
+          },
+          {
+            "startTime": 40500,
+            "endTime": 40620,
+            "data": " the"
+          },
+          {
+            "startTime": 40620,
+            "endTime": 40760,
+            "data": " Zen"
+          },
+          {
+            "startTime": 40760,
+            "endTime": 40920,
+            "data": " of"
+          },
+          {
+            "startTime": 40920,
+            "endTime": 41360,
+            "data": " Python."
+          }
+        ],
+        "startTime": 37740,
+        "endTime": 41360,
+        "rawText": "The first being that Python is very readable, like it states in the Zen of Python."
+      },
+      {
+        "words": [
+          {
+            "startTime": 41680,
+            "endTime": 42020,
+            "data": " Simple"
+          },
+          {
+            "startTime": 42020,
+            "endTime": 42240,
+            "data": " is"
+          },
+          {
+            "startTime": 42240,
+            "endTime": 42460,
+            "data": " better"
+          },
+          {
+            "startTime": 42460,
+            "endTime": 42680,
+            "data": " than"
+          },
+          {
+            "startTime": 42680,
+            "endTime": 43120,
+            "data": " complex,"
+          },
+          {
+            "startTime": 43320,
+            "endTime": 43440,
+            "data": " and"
+          },
+          {
+            "startTime": 43440,
+            "endTime": 43720,
+            "data": " that's"
+          },
+          {
+            "startTime": 43720,
+            "endTime": 44080,
+            "data": " exactly"
+          },
+          {
+            "startTime": 44080,
+            "endTime": 44300,
+            "data": " what"
+          },
+          {
+            "startTime": 44300,
+            "endTime": 44460,
+            "data": " the"
+          },
+          {
+            "startTime": 44460,
+            "endTime": 44700,
+            "data": " language"
+          },
+          {
+            "startTime": 44700,
+            "endTime": 45080,
+            "data": " mirrors."
+          }
+        ],
+        "startTime": 41680,
+        "endTime": 45080,
+        "rawText": "Simple is better than complex, and that's exactly what the language mirrors."
+      },
+      {
+        "words": [
+          {
+            "startTime": 45400,
+            "endTime": 45580,
+            "data": " Python"
+          },
+          {
+            "startTime": 45580,
+            "endTime": 45820,
+            "data": " can"
+          },
+          {
+            "startTime": 45820,
+            "endTime": 46140,
+            "data": " also"
+          },
+          {
+            "startTime": 46140,
+            "endTime": 46460,
+            "data": " handle"
+          },
+          {
+            "startTime": 46460,
+            "endTime": 46680,
+            "data": " a"
+          },
+          {
+            "startTime": 46680,
+            "endTime": 47020,
+            "data": " multitude"
+          },
+          {
+            "startTime": 47020,
+            "endTime": 47280,
+            "data": " of"
+          },
+          {
+            "startTime": 47280,
+            "endTime": 47480,
+            "data": " different"
+          },
+          {
+            "startTime": 47480,
+            "endTime": 47880,
+            "data": " jobs,"
+          },
+          {
+            "startTime": 48100,
+            "endTime": 48220,
+            "data": " from"
+          },
+          {
+            "startTime": 48220,
+            "endTime": 48620,
+            "data": " machine"
+          },
+          {
+            "startTime": 48620,
+            "endTime": 49000,
+            "data": " learning,"
+          }
+        ],
+        "startTime": 45400,
+        "endTime": 49000,
+        "rawText": "Python can also handle a multitude of different jobs, from machine learning,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 49140,
+            "endTime": 49300,
+            "data": " to"
+          },
+          {
+            "startTime": 49300,
+            "endTime": 49620,
+            "data": " data"
+          },
+          {
+            "startTime": 49620,
+            "endTime": 50100,
+            "data": " analytics,"
+          },
+          {
+            "startTime": 50260,
+            "endTime": 50480,
+            "data": " web"
+          },
+          {
+            "startTime": 50480,
+            "endTime": 50940,
+            "data": " development,"
+          },
+          {
+            "startTime": 51220,
+            "endTime": 51480,
+            "data": " testing,"
+          },
+          {
+            "startTime": 51660,
+            "endTime": 51840,
+            "data": " and"
+          },
+          {
+            "startTime": 51840,
+            "endTime": 52080,
+            "data": " so"
+          },
+          {
+            "startTime": 52080,
+            "endTime": 52200,
+            "data": " on."
+          }
+        ],
+        "startTime": 49140,
+        "endTime": 52200,
+        "rawText": "to data analytics, web development, testing, and so on."
+      },
+      {
+        "words": [
+          {
+            "startTime": 52460,
+            "endTime": 52620,
+            "data": " There"
+          },
+          {
+            "startTime": 52620,
+            "endTime": 52800,
+            "data": " is"
+          },
+          {
+            "startTime": 52800,
+            "endTime": 52980,
+            "data": " no"
+          },
+          {
+            "startTime": 52980,
+            "endTime": 53120,
+            "data": " need"
+          },
+          {
+            "startTime": 53120,
+            "endTime": 53300,
+            "data": " to"
+          },
+          {
+            "startTime": 53300,
+            "endTime": 53500,
+            "data": " debate"
+          },
+          {
+            "startTime": 53500,
+            "endTime": 53700,
+            "data": " how"
+          },
+          {
+            "startTime": 53700,
+            "endTime": 53940,
+            "data": " great"
+          },
+          {
+            "startTime": 53940,
+            "endTime": 54160,
+            "data": " this"
+          },
+          {
+            "startTime": 54160,
+            "endTime": 54400,
+            "data": " language"
+          },
+          {
+            "startTime": 54400,
+            "endTime": 54760,
+            "data": " is."
+          },
+          {
+            "startTime": 55000,
+            "endTime": 55180,
+            "data": " But"
+          },
+          {
+            "startTime": 55180,
+            "endTime": 55320,
+            "data": " how"
+          },
+          {
+            "startTime": 55320,
+            "endTime": 55500,
+            "data": " can"
+          },
+          {
+            "startTime": 55500,
+            "endTime": 55660,
+            "data": " we"
+          },
+          {
+            "startTime": 55660,
+            "endTime": 55840,
+            "data": " use"
+          },
+          {
+            "startTime": 55840,
+            "endTime": 56060,
+            "data": " it?"
+          }
+        ],
+        "startTime": 52460,
+        "endTime": 56060,
+        "rawText": "There is no need to debate how great this language is. But how can we use it?"
+      },
+      {
+        "words": [
+          {
+            "startTime": 56140,
+            "endTime": 56240,
+            "data": " You"
+          },
+          {
+            "startTime": 56240,
+            "endTime": 56480,
+            "data": " can"
+          },
+          {
+            "startTime": 56480,
+            "endTime": 56720,
+            "data": " download"
+          },
+          {
+            "startTime": 56720,
+            "endTime": 57060,
+            "data": " Python"
+          },
+          {
+            "startTime": 57060,
+            "endTime": 57240,
+            "data": " on"
+          },
+          {
+            "startTime": 57240,
+            "endTime": 57480,
+            "data": " the"
+          },
+          {
+            "startTime": 57480,
+            "endTime": 57780,
+            "data": " official"
+          },
+          {
+            "startTime": 57780,
+            "endTime": 58020,
+            "data": " Getting"
+          },
+          {
+            "startTime": 58020,
+            "endTime": 58420,
+            "data": " Started"
+          },
+          {
+            "startTime": 58420,
+            "endTime": 58640,
+            "data": " With"
+          },
+          {
+            "startTime": 58640,
+            "endTime": 59040,
+            "data": " Python"
+          },
+          {
+            "startTime": 59040,
+            "endTime": 59560,
+            "data": " page."
+          }
+        ],
+        "startTime": 56140,
+        "endTime": 59560,
+        "rawText": "You can download Python on the official Getting Started With Python page."
+      },
+      {
+        "words": [
+          {
+            "startTime": 59560,
+            "endTime": 60260,
+            "data": " Once"
+          },
+          {
+            "startTime": 60260,
+            "endTime": 60900,
+            "data": " downloaded,"
+          },
+          {
+            "startTime": 61340,
+            "endTime": 61400,
+            "data": " creating"
+          },
+          {
+            "startTime": 61400,
+            "endTime": 61640,
+            "data": " a"
+          },
+          {
+            "startTime": 61640,
+            "endTime": 61780,
+            "data": " file"
+          },
+          {
+            "startTime": 61780,
+            "endTime": 61980,
+            "data": " with"
+          },
+          {
+            "startTime": 61980,
+            "endTime": 62340,
+            "data": " Python"
+          },
+          {
+            "startTime": 62340,
+            "endTime": 62620,
+            "data": " is"
+          },
+          {
+            "startTime": 62620,
+            "endTime": 62860,
+            "data": " as"
+          },
+          {
+            "startTime": 62860,
+            "endTime": 63140,
+            "data": " easy"
+          },
+          {
+            "startTime": 63140,
+            "endTime": 63240,
+            "data": " as"
+          },
+          {
+            "startTime": 63240,
+            "endTime": 63480,
+            "data": " naming"
+          },
+          {
+            "startTime": 63480,
+            "endTime": 63700,
+            "data": " the"
+          },
+          {
+            "startTime": 63700,
+            "endTime": 64000,
+            "data": " file"
+          },
+          {
+            "startTime": 64000,
+            "endTime": 64180,
+            "data": " and"
+          },
+          {
+            "startTime": 64180,
+            "endTime": 64440,
+            "data": " ending"
+          },
+          {
+            "startTime": 64440,
+            "endTime": 64700,
+            "data": " it"
+          },
+          {
+            "startTime": 64700,
+            "endTime": 64860,
+            "data": " with"
+          },
+          {
+            "startTime": 64860,
+            "endTime": 65760,
+            "data": " .py."
+          }
+        ],
+        "startTime": 59560,
+        "endTime": 65760,
+        "rawText": "Once downloaded, creating a file with Python is as easy as naming the file and ending it with .py."
+      },
+      {
+        "words": [
+          {
+            "startTime": 65940,
+            "endTime": 66140,
+            "data": " These"
+          },
+          {
+            "startTime": 66140,
+            "endTime": 66400,
+            "data": " files"
+          },
+          {
+            "startTime": 66400,
+            "endTime": 66700,
+            "data": " are"
+          },
+          {
+            "startTime": 66700,
+            "endTime": 66880,
+            "data": " also"
+          },
+          {
+            "startTime": 66880,
+            "endTime": 67160,
+            "data": " referred"
+          },
+          {
+            "startTime": 67160,
+            "endTime": 67340,
+            "data": " to"
+          },
+          {
+            "startTime": 67340,
+            "endTime": 67540,
+            "data": " as"
+          },
+          {
+            "startTime": 67540,
+            "endTime": 67940,
+            "data": " modules."
+          }
+        ],
+        "startTime": 65940,
+        "endTime": 67940,
+        "rawText": "These files are also referred to as modules."
+      },
+      {
+        "words": [
+          {
+            "startTime": 68260,
+            "endTime": 68540,
+            "data": " Then"
+          },
+          {
+            "startTime": 68540,
+            "endTime": 68760,
+            "data": " all"
+          },
+          {
+            "startTime": 68760,
+            "endTime": 68860,
+            "data": " you"
+          },
+          {
+            "startTime": 68860,
+            "endTime": 69020,
+            "data": " need"
+          },
+          {
+            "startTime": 69020,
+            "endTime": 69220,
+            "data": " to"
+          },
+          {
+            "startTime": 69220,
+            "endTime": 69400,
+            "data": " do"
+          },
+          {
+            "startTime": 69400,
+            "endTime": 69580,
+            "data": " is"
+          },
+          {
+            "startTime": 69580,
+            "endTime": 69840,
+            "data": " print"
+          },
+          {
+            "startTime": 69840,
+            "endTime": 70180,
+            "data": " hello"
+          },
+          {
+            "startTime": 70180,
+            "endTime": 70480,
+            "data": " world"
+          },
+          {
+            "startTime": 70480,
+            "endTime": 70780,
+            "data": " and"
+          },
+          {
+            "startTime": 70780,
+            "endTime": 70940,
+            "data": " there"
+          },
+          {
+            "startTime": 70940,
+            "endTime": 71120,
+            "data": " you"
+          },
+          {
+            "startTime": 71120,
+            "endTime": 71300,
+            "data": " go."
+          }
+        ],
+        "startTime": 68260,
+        "endTime": 71300,
+        "rawText": "Then all you need to do is print hello world and there you go."
+      },
+      {
+        "words": [
+          {
+            "startTime": 71480,
+            "endTime": 71520,
+            "data": " You"
+          },
+          {
+            "startTime": 71520,
+            "endTime": 71680,
+            "data": " can"
+          },
+          {
+            "startTime": 71680,
+            "endTime": 71880,
+            "data": " brag"
+          },
+          {
+            "startTime": 71880,
+            "endTime": 72060,
+            "data": " to"
+          },
+          {
+            "startTime": 72060,
+            "endTime": 72200,
+            "data": " all"
+          },
+          {
+            "startTime": 72200,
+            "endTime": 72380,
+            "data": " your"
+          },
+          {
+            "startTime": 72380,
+            "endTime": 72660,
+            "data": " friends"
+          },
+          {
+            "startTime": 72660,
+            "endTime": 72860,
+            "data": " that"
+          },
+          {
+            "startTime": 72860,
+            "endTime": 73040,
+            "data": " you"
+          },
+          {
+            "startTime": 73040,
+            "endTime": 73160,
+            "data": " are"
+          },
+          {
+            "startTime": 73160,
+            "endTime": 73280,
+            "data": " the"
+          },
+          {
+            "startTime": 73280,
+            "endTime": 73460,
+            "data": " next"
+          },
+          {
+            "startTime": 73460,
+            "endTime": 73680,
+            "data": " Bill"
+          },
+          {
+            "startTime": 73680,
+            "endTime": 73980,
+            "data": " Gates."
+          }
+        ],
+        "startTime": 71480,
+        "endTime": 73980,
+        "rawText": "You can brag to all your friends that you are the next Bill Gates."
+      },
+      {
+        "words": [
+          {
+            "startTime": 74960,
+            "endTime": 75100,
+            "data": " You"
+          },
+          {
+            "startTime": 75100,
+            "endTime": 75280,
+            "data": " have"
+          },
+          {
+            "startTime": 75280,
+            "endTime": 75660,
+            "data": " probably"
+          },
+          {
+            "startTime": 75660,
+            "endTime": 75880,
+            "data": " heard"
+          },
+          {
+            "startTime": 75880,
+            "endTime": 76100,
+            "data": " of"
+          },
+          {
+            "startTime": 76100,
+            "endTime": 76460,
+            "data": " interpreted"
+          },
+          {
+            "startTime": 76460,
+            "endTime": 76840,
+            "data": " versus"
+          },
+          {
+            "startTime": 76840,
+            "endTime": 77300,
+            "data": " compiled,"
+          },
+          {
+            "startTime": 77520,
+            "endTime": 77860,
+            "data": " right?"
+          }
+        ],
+        "startTime": 74960,
+        "endTime": 77860,
+        "rawText": "You have probably heard of interpreted versus compiled, right?"
+      },
+      {
+        "words": [
+          {
+            "startTime": 78320,
+            "endTime": 78500,
+            "data": " Well,"
+          },
+          {
+            "startTime": 78500,
+            "endTime": 78900,
+            "data": " Python"
+          },
+          {
+            "startTime": 78900,
+            "endTime": 79160,
+            "data": " is"
+          },
+          {
+            "startTime": 79160,
+            "endTime": 79360,
+            "data": " an"
+          },
+          {
+            "startTime": 79360,
+            "endTime": 79660,
+            "data": " interpreted"
+          },
+          {
+            "startTime": 79660,
+            "endTime": 80160,
+            "data": " language,"
+          },
+          {
+            "startTime": 80480,
+            "endTime": 80700,
+            "data": " which"
+          },
+          {
+            "startTime": 80700,
+            "endTime": 80960,
+            "data": " means"
+          },
+          {
+            "startTime": 80960,
+            "endTime": 81200,
+            "data": " the"
+          },
+          {
+            "startTime": 81200,
+            "endTime": 81420,
+            "data": " source"
+          },
+          {
+            "startTime": 81420,
+            "endTime": 81720,
+            "data": " code"
+          },
+          {
+            "startTime": 81720,
+            "endTime": 82020,
+            "data": " is"
+          },
+          {
+            "startTime": 82020,
+            "endTime": 82320,
+            "data": " converted"
+          },
+          {
+            "startTime": 82320,
+            "endTime": 82600,
+            "data": " into"
+          }
+        ],
+        "startTime": 78320,
+        "endTime": 82600,
+        "rawText": "Well, Python is an interpreted language, which means the source code is converted into"
+      },
+      {
+        "words": [
+          {
+            "startTime": 82600,
+            "endTime": 82880,
+            "data": " byte"
+          },
+          {
+            "startTime": 82880,
+            "endTime": 83240,
+            "data": " code"
+          },
+          {
+            "startTime": 83240,
+            "endTime": 83620,
+            "data": " that"
+          },
+          {
+            "startTime": 83620,
+            "endTime": 83860,
+            "data": " is"
+          },
+          {
+            "startTime": 83860,
+            "endTime": 84060,
+            "data": " then"
+          },
+          {
+            "startTime": 84060,
+            "endTime": 84480,
+            "data": " executed"
+          },
+          {
+            "startTime": 84480,
+            "endTime": 84720,
+            "data": " by"
+          },
+          {
+            "startTime": 84720,
+            "endTime": 84880,
+            "data": " the"
+          },
+          {
+            "startTime": 84880,
+            "endTime": 85160,
+            "data": " Python"
+          },
+          {
+            "startTime": 85160,
+            "endTime": 85520,
+            "data": " virtual"
+          },
+          {
+            "startTime": 85520,
+            "endTime": 85940,
+            "data": " machine."
+          }
+        ],
+        "startTime": 82600,
+        "endTime": 85940,
+        "rawText": "byte code that is then executed by the Python virtual machine."
+      },
+      {
+        "words": [
+          {
+            "startTime": 85940,
+            "endTime": 86280,
+            "data": " This"
+          },
+          {
+            "startTime": 86280,
+            "endTime": 86740,
+            "data": " equates"
+          },
+          {
+            "startTime": 86740,
+            "endTime": 86900,
+            "data": " to"
+          },
+          {
+            "startTime": 86900,
+            "endTime": 87220,
+            "data": " Python"
+          },
+          {
+            "startTime": 87220,
+            "endTime": 87440,
+            "data": " being"
+          },
+          {
+            "startTime": 87440,
+            "endTime": 87960,
+            "data": " extremely"
+          },
+          {
+            "startTime": 87960,
+            "endTime": 88200,
+            "data": " fast"
+          },
+          {
+            "startTime": 88200,
+            "endTime": 88420,
+            "data": " to"
+          },
+          {
+            "startTime": 88420,
+            "endTime": 88680,
+            "data": " develop,"
+          },
+          {
+            "startTime": 88760,
+            "endTime": 88860,
+            "data": " but"
+          },
+          {
+            "startTime": 88860,
+            "endTime": 89080,
+            "data": " not"
+          },
+          {
+            "startTime": 89080,
+            "endTime": 89320,
+            "data": " so"
+          },
+          {
+            "startTime": 89320,
+            "endTime": 89520,
+            "data": " fast"
+          },
+          {
+            "startTime": 89520,
+            "endTime": 89720,
+            "data": " during"
+          },
+          {
+            "startTime": 89720,
+            "endTime": 89960,
+            "data": " the"
+          },
+          {
+            "startTime": 89960,
+            "endTime": 90440,
+            "data": " execution"
+          }
+        ],
+        "startTime": 85940,
+        "endTime": 90440,
+        "rawText": "This equates to Python being extremely fast to develop, but not so fast during the execution"
+      },
+      {
+        "words": [
+          {
+            "startTime": 90440,
+            "endTime": 90760,
+            "data": " step"
+          },
+          {
+            "startTime": 90760,
+            "endTime": 91020,
+            "data": " since"
+          },
+          {
+            "startTime": 91020,
+            "endTime": 91220,
+            "data": " the"
+          },
+          {
+            "startTime": 91220,
+            "endTime": 91460,
+            "data": " code"
+          },
+          {
+            "startTime": 91460,
+            "endTime": 91700,
+            "data": " is"
+          },
+          {
+            "startTime": 91700,
+            "endTime": 91940,
+            "data": " not"
+          },
+          {
+            "startTime": 91940,
+            "endTime": 92380,
+            "data": " directly"
+          },
+          {
+            "startTime": 92380,
+            "endTime": 92960,
+            "data": " compiled"
+          },
+          {
+            "startTime": 92960,
+            "endTime": 93460,
+            "data": " and"
+          },
+          {
+            "startTime": 93460,
+            "endTime": 93920,
+            "data": " executed."
+          }
+        ],
+        "startTime": 90440,
+        "endTime": 93920,
+        "rawText": "step since the code is not directly compiled and executed."
+      },
+      {
+        "words": [
+          {
+            "startTime": 94200,
+            "endTime": 94360,
+            "data": " But"
+          },
+          {
+            "startTime": 94360,
+            "endTime": 94600,
+            "data": " why"
+          },
+          {
+            "startTime": 94600,
+            "endTime": 94760,
+            "data": " should"
+          },
+          {
+            "startTime": 94760,
+            "endTime": 94880,
+            "data": " we"
+          },
+          {
+            "startTime": 94880,
+            "endTime": 95020,
+            "data": " learn"
+          },
+          {
+            "startTime": 95020,
+            "endTime": 95500,
+            "data": " Python?"
+          }
+        ],
+        "startTime": 94200,
+        "endTime": 95500,
+        "rawText": "But why should we learn Python?"
+      },
+      {
+        "words": [
+          {
+            "startTime": 95940,
+            "endTime": 96300,
+            "data": " Probably"
+          },
+          {
+            "startTime": 96300,
+            "endTime": 96440,
+            "data": " the"
+          },
+          {
+            "startTime": 96440,
+            "endTime": 96680,
+            "data": " most"
+          },
+          {
+            "startTime": 96680,
+            "endTime": 97100,
+            "data": " important"
+          },
+          {
+            "startTime": 97100,
+            "endTime": 97460,
+            "data": " answer"
+          },
+          {
+            "startTime": 97460,
+            "endTime": 97640,
+            "data": " to"
+          },
+          {
+            "startTime": 97640,
+            "endTime": 97880,
+            "data": " that"
+          },
+          {
+            "startTime": 97880,
+            "endTime": 98100,
+            "data": " is"
+          },
+          {
+            "startTime": 98100,
+            "endTime": 98340,
+            "data": " just"
+          },
+          {
+            "startTime": 98340,
+            "endTime": 98660,
+            "data": " how"
+          },
+          {
+            "startTime": 98660,
+            "endTime": 98940,
+            "data": " beginner"
+          },
+          {
+            "startTime": 98940,
+            "endTime": 99320,
+            "data": "-friendly"
+          },
+          {
+            "startTime": 99320,
+            "endTime": 99520,
+            "data": " the"
+          },
+          {
+            "startTime": 99520,
+            "endTime": 99760,
+            "data": " language"
+          },
+          {
+            "startTime": 99760,
+            "endTime": 100100,
+            "data": " is."
+          }
+        ],
+        "startTime": 95940,
+        "endTime": 100100,
+        "rawText": "Probably the most important answer to that is just how beginner-friendly the language is."
+      },
+      {
+        "words": [
+          {
+            "startTime": 100220,
+            "endTime": 100300,
+            "data": " If"
+          },
+          {
+            "startTime": 100300,
+            "endTime": 100500,
+            "data": " you're"
+          },
+          {
+            "startTime": 100500,
+            "endTime": 100720,
+            "data": " brand"
+          },
+          {
+            "startTime": 100720,
+            "endTime": 100820,
+            "data": " new"
+          },
+          {
+            "startTime": 100820,
+            "endTime": 100940,
+            "data": " to"
+          },
+          {
+            "startTime": 100940,
+            "endTime": 101140,
+            "data": " web"
+          },
+          {
+            "startTime": 101140,
+            "endTime": 101560,
+            "data": " development,"
+          },
+          {
+            "startTime": 101860,
+            "endTime": 101960,
+            "data": " my"
+          },
+          {
+            "startTime": 101960,
+            "endTime": 102580,
+            "data": " recommendation"
+          },
+          {
+            "startTime": 102580,
+            "endTime": 102880,
+            "data": " is"
+          },
+          {
+            "startTime": 102880,
+            "endTime": 103120,
+            "data": " either"
+          },
+          {
+            "startTime": 103120,
+            "endTime": 103340,
+            "data": " learn"
+          },
+          {
+            "startTime": 103340,
+            "endTime": 103800,
+            "data": " Python"
+          },
+          {
+            "startTime": 103800,
+            "endTime": 104060,
+            "data": " or"
+          },
+          {
+            "startTime": 104060,
+            "endTime": 104520,
+            "data": " JavaScript."
+          }
+        ],
+        "startTime": 100220,
+        "endTime": 104520,
+        "rawText": "If you're brand new to web development, my recommendation is either learn Python or JavaScript."
+      },
+      {
+        "words": [
+          {
+            "startTime": 104900,
+            "endTime": 105060,
+            "data": " You"
+          },
+          {
+            "startTime": 105060,
+            "endTime": 105240,
+            "data": " can't"
+          },
+          {
+            "startTime": 105240,
+            "endTime": 105400,
+            "data": " go"
+          },
+          {
+            "startTime": 105400,
+            "endTime": 105560,
+            "data": " wrong"
+          },
+          {
+            "startTime": 105560,
+            "endTime": 105820,
+            "data": " with"
+          },
+          {
+            "startTime": 105820,
+            "endTime": 106040,
+            "data": " either."
+          }
+        ],
+        "startTime": 104900,
+        "endTime": 106040,
+        "rawText": "You can't go wrong with either."
+      },
+      {
+        "words": [
+          {
+            "startTime": 106180,
+            "endTime": 106340,
+            "data": " As"
+          },
+          {
+            "startTime": 106340,
+            "endTime": 106540,
+            "data": " we"
+          },
+          {
+            "startTime": 106540,
+            "endTime": 106760,
+            "data": " mentioned"
+          },
+          {
+            "startTime": 106760,
+            "endTime": 107300,
+            "data": " before,"
+          },
+          {
+            "startTime": 107520,
+            "endTime": 107740,
+            "data": " Python"
+          },
+          {
+            "startTime": 107740,
+            "endTime": 107940,
+            "data": " is"
+          },
+          {
+            "startTime": 107940,
+            "endTime": 108340,
+            "data": " also"
+          },
+          {
+            "startTime": 108340,
+            "endTime": 108920,
+            "data": " extremely"
+          },
+          {
+            "startTime": 108920,
+            "endTime": 109440,
+            "data": " versatile."
+          }
+        ],
+        "startTime": 106180,
+        "endTime": 109440,
+        "rawText": "As we mentioned before, Python is also extremely versatile."
+      },
+      {
+        "words": [
+          {
+            "startTime": 109600,
+            "endTime": 109700,
+            "data": " You"
+          },
+          {
+            "startTime": 109700,
+            "endTime": 109840,
+            "data": " can"
+          },
+          {
+            "startTime": 109840,
+            "endTime": 110020,
+            "data": " do"
+          },
+          {
+            "startTime": 110020,
+            "endTime": 110280,
+            "data": " so"
+          },
+          {
+            "startTime": 110280,
+            "endTime": 110480,
+            "data": " many"
+          },
+          {
+            "startTime": 110480,
+            "endTime": 110720,
+            "data": " different"
+          },
+          {
+            "startTime": 110720,
+            "endTime": 111000,
+            "data": " tasks"
+          },
+          {
+            "startTime": 111000,
+            "endTime": 111200,
+            "data": " with"
+          },
+          {
+            "startTime": 111200,
+            "endTime": 111440,
+            "data": " just"
+          },
+          {
+            "startTime": 111440,
+            "endTime": 111640,
+            "data": " one"
+          },
+          {
+            "startTime": 111640,
+            "endTime": 112140,
+            "data": " language."
+          }
+        ],
+        "startTime": 109600,
+        "endTime": 112140,
+        "rawText": "You can do so many different tasks with just one language."
+      },
+      {
+        "words": [
+          {
+            "startTime": 112300,
+            "endTime": 112780,
+            "data": " Lastly,"
+          },
+          {
+            "startTime": 113300,
+            "endTime": 113480,
+            "data": " Python"
+          },
+          {
+            "startTime": 113480,
+            "endTime": 113860,
+            "data": " developers"
+          },
+          {
+            "startTime": 113860,
+            "endTime": 114120,
+            "data": " are"
+          },
+          {
+            "startTime": 114120,
+            "endTime": 114560,
+            "data": " extremely"
+          },
+          {
+            "startTime": 114560,
+            "endTime": 114780,
+            "data": " in"
+          },
+          {
+            "startTime": 114780,
+            "endTime": 115140,
+            "data": " demand."
+          }
+        ],
+        "startTime": 112300,
+        "endTime": 115140,
+        "rawText": "Lastly, Python developers are extremely in demand."
+      },
+      {
+        "words": [
+          {
+            "startTime": 115140,
+            "endTime": 115460,
+            "data": " There"
+          },
+          {
+            "startTime": 115460,
+            "endTime": 115740,
+            "data": " are"
+          },
+          {
+            "startTime": 115740,
+            "endTime": 116120,
+            "data": " 36"
+          },
+          {
+            "startTime": 116120,
+            "endTime": 116620,
+            "data": ",000"
+          },
+          {
+            "startTime": 116620,
+            "endTime": 116880,
+            "data": " job"
+          },
+          {
+            "startTime": 116880,
+            "endTime": 117320,
+            "data": " postings"
+          },
+          {
+            "startTime": 117320,
+            "endTime": 117580,
+            "data": " on"
+          },
+          {
+            "startTime": 117580,
+            "endTime": 118120,
+            "data": " Zippercrooter"
+          },
+          {
+            "startTime": 118120,
+            "endTime": 118380,
+            "data": " at"
+          },
+          {
+            "startTime": 118380,
+            "endTime": 118600,
+            "data": " this"
+          },
+          {
+            "startTime": 118600,
+            "endTime": 118820,
+            "data": " current"
+          },
+          {
+            "startTime": 118820,
+            "endTime": 119120,
+            "data": " moment"
+          },
+          {
+            "startTime": 119120,
+            "endTime": 119440,
+            "data": " for"
+          },
+          {
+            "startTime": 119440,
+            "endTime": 119720,
+            "data": " entry"
+          },
+          {
+            "startTime": 119720,
+            "endTime": 120000,
+            "data": "-level"
+          },
+          {
+            "startTime": 120000,
+            "endTime": 120440,
+            "data": " Python"
+          }
+        ],
+        "startTime": 115140,
+        "endTime": 120440,
+        "rawText": "There are 36,000 job postings on Zippercrooter at this current moment for entry-level Python"
+      },
+      {
+        "words": [
+          {
+            "startTime": 120440,
+            "endTime": 120940,
+            "data": " developers."
+          }
+        ],
+        "startTime": 120440,
+        "endTime": 120940,
+        "rawText": "developers."
+      },
+      {
+        "words": [
+          {
+            "startTime": 121340,
+            "endTime": 121440,
+            "data": " If"
+          },
+          {
+            "startTime": 121440,
+            "endTime": 121600,
+            "data": " you"
+          },
+          {
+            "startTime": 121600,
+            "endTime": 121740,
+            "data": " want"
+          },
+          {
+            "startTime": 121740,
+            "endTime": 121820,
+            "data": " to"
+          },
+          {
+            "startTime": 121820,
+            "endTime": 121960,
+            "data": " learn"
+          },
+          {
+            "startTime": 121960,
+            "endTime": 122420,
+            "data": " Python"
+          },
+          {
+            "startTime": 122420,
+            "endTime": 122720,
+            "data": " and"
+          },
+          {
+            "startTime": 122720,
+            "endTime": 122920,
+            "data": " fully"
+          },
+          {
+            "startTime": 122920,
+            "endTime": 123260,
+            "data": " master"
+          },
+          {
+            "startTime": 123260,
+            "endTime": 123440,
+            "data": " one"
+          },
+          {
+            "startTime": 123440,
+            "endTime": 123500,
+            "data": " of"
+          },
+          {
+            "startTime": 123500,
+            "endTime": 123620,
+            "data": " the"
+          },
+          {
+            "startTime": 123620,
+            "endTime": 123860,
+            "data": " most"
+          },
+          {
+            "startTime": 123860,
+            "endTime": 124240,
+            "data": " relevant"
+          },
+          {
+            "startTime": 124240,
+            "endTime": 124620,
+            "data": " languages"
+          }
+        ],
+        "startTime": 121340,
+        "endTime": 124620,
+        "rawText": "If you want to learn Python and fully master one of the most relevant languages"
+      },
+      {
+        "words": [
+          {
+            "startTime": 124620,
+            "endTime": 124880,
+            "data": " in"
+          },
+          {
+            "startTime": 124880,
+            "endTime": 125000,
+            "data": " the"
+          },
+          {
+            "startTime": 125000,
+            "endTime": 125120,
+            "data": " world"
+          },
+          {
+            "startTime": 125120,
+            "endTime": 125380,
+            "data": " of"
+          },
+          {
+            "startTime": 125380,
+            "endTime": 125720,
+            "data": " development,"
+          },
+          {
+            "startTime": 126120,
+            "endTime": 126200,
+            "data": " check"
+          },
+          {
+            "startTime": 126200,
+            "endTime": 126480,
+            "data": " out"
+          },
+          {
+            "startTime": 126480,
+            "endTime": 127440,
+            "data": " Zero2Mastery's"
+          },
+          {
+            "startTime": 127440,
+            "endTime": 127720,
+            "data": " complete"
+          }
+        ],
+        "startTime": 124620,
+        "endTime": 127720,
+        "rawText": "in the world of development, check out Zero2Mastery's complete"
+      },
+      {
+        "words": [
+          {
+            "startTime": 127720,
+            "endTime": 128220,
+            "data": " Python"
+          },
+          {
+            "startTime": 128220,
+            "endTime": 128699,
+            "data": " Developer"
+          },
+          {
+            "startTime": 128699,
+            "endTime": 129240,
+            "data": " Bootcamp"
+          },
+          {
+            "startTime": 129240,
+            "endTime": 129680,
+            "data": " course,"
+          },
+          {
+            "startTime": 130039,
+            "endTime": 130100,
+            "data": " where"
+          },
+          {
+            "startTime": 130100,
+            "endTime": 130320,
+            "data": " you'll"
+          },
+          {
+            "startTime": 130320,
+            "endTime": 130440,
+            "data": " go"
+          },
+          {
+            "startTime": 130440,
+            "endTime": 130660,
+            "data": " from"
+          },
+          {
+            "startTime": 130660,
+            "endTime": 131000,
+            "data": " beginner"
+          },
+          {
+            "startTime": 131000,
+            "endTime": 131580,
+            "data": " to"
+          },
+          {
+            "startTime": 131580,
+            "endTime": 131960,
+            "data": " expert."
+          }
+        ],
+        "startTime": 127720,
+        "endTime": 131960,
+        "rawText": "Python Developer Bootcamp course, where you'll go from beginner to expert."
+      }
+    ]
+  }
+}

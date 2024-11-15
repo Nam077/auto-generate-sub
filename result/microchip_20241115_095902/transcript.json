@@ -1,0 +1,2035 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "sentences": [
+      {
+        "words": [
+          {
+            "startTime": 1550,
+            "endTime": 2070,
+            "data": " How"
+          },
+          {
+            "startTime": 2070,
+            "endTime": 2290,
+            "data": " does"
+          },
+          {
+            "startTime": 2290,
+            "endTime": 2530,
+            "data": " a"
+          },
+          {
+            "startTime": 2530,
+            "endTime": 2970,
+            "data": " microchip"
+          },
+          {
+            "startTime": 2970,
+            "endTime": 3430,
+            "data": " work?"
+          }
+        ],
+        "startTime": 1550,
+        "endTime": 3430,
+        "rawText": "How does a microchip work?"
+      },
+      {
+        "words": [
+          {
+            "startTime": 6530,
+            "endTime": 6810,
+            "data": " This"
+          },
+          {
+            "startTime": 6810,
+            "endTime": 7330,
+            "data": " modern"
+          },
+          {
+            "startTime": 7330,
+            "endTime": 7850,
+            "data": " world,"
+          },
+          {
+            "startTime": 8470,
+            "endTime": 8550,
+            "data": " it's"
+          },
+          {
+            "startTime": 8550,
+            "endTime": 8790,
+            "data": " driven"
+          },
+          {
+            "startTime": 8790,
+            "endTime": 9030,
+            "data": " by"
+          },
+          {
+            "startTime": 9030,
+            "endTime": 9390,
+            "data": " something"
+          },
+          {
+            "startTime": 9390,
+            "endTime": 10210,
+            "data": " incredibly"
+          },
+          {
+            "startTime": 10210,
+            "endTime": 10690,
+            "data": " tiny."
+          }
+        ],
+        "startTime": 6530,
+        "endTime": 10690,
+        "rawText": "This modern world, it's driven by something incredibly tiny."
+      },
+      {
+        "words": [
+          {
+            "startTime": 11430,
+            "endTime": 11510,
+            "data": " The"
+          },
+          {
+            "startTime": 11510,
+            "endTime": 11830,
+            "data": " beating"
+          },
+          {
+            "startTime": 11830,
+            "endTime": 12150,
+            "data": " heart"
+          },
+          {
+            "startTime": 12150,
+            "endTime": 12310,
+            "data": " of"
+          },
+          {
+            "startTime": 12310,
+            "endTime": 12550,
+            "data": " your"
+          },
+          {
+            "startTime": 12550,
+            "endTime": 13010,
+            "data": " gadgets,"
+          },
+          {
+            "startTime": 13570,
+            "endTime": 13890,
+            "data": " the"
+          },
+          {
+            "startTime": 13890,
+            "endTime": 14730,
+            "data": " microchip."
+          }
+        ],
+        "startTime": 11430,
+        "endTime": 14730,
+        "rawText": "The beating heart of your gadgets, the microchip."
+      },
+      {
+        "words": [
+          {
+            "startTime": 15890,
+            "endTime": 15970,
+            "data": " At"
+          },
+          {
+            "startTime": 15970,
+            "endTime": 16250,
+            "data": " its"
+          },
+          {
+            "startTime": 16250,
+            "endTime": 16850,
+            "data": " core,"
+          },
+          {
+            "startTime": 17610,
+            "endTime": 18230,
+            "data": " microchips"
+          },
+          {
+            "startTime": 18230,
+            "endTime": 18650,
+            "data": " are"
+          },
+          {
+            "startTime": 18650,
+            "endTime": 18870,
+            "data": " made"
+          },
+          {
+            "startTime": 18870,
+            "endTime": 19190,
+            "data": " of"
+          },
+          {
+            "startTime": 19190,
+            "endTime": 19610,
+            "data": " silicon,"
+          }
+        ],
+        "startTime": 15890,
+        "endTime": 19610,
+        "rawText": "At its core, microchips are made of silicon,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 20250,
+            "endTime": 20470,
+            "data": " the"
+          },
+          {
+            "startTime": 20470,
+            "endTime": 21010,
+            "data": " second"
+          },
+          {
+            "startTime": 21010,
+            "endTime": 21670,
+            "data": " most"
+          },
+          {
+            "startTime": 21670,
+            "endTime": 22250,
+            "data": " abundant"
+          },
+          {
+            "startTime": 22250,
+            "endTime": 22690,
+            "data": " element"
+          },
+          {
+            "startTime": 22690,
+            "endTime": 23030,
+            "data": " on"
+          },
+          {
+            "startTime": 23030,
+            "endTime": 23450,
+            "data": " earth."
+          }
+        ],
+        "startTime": 20250,
+        "endTime": 23450,
+        "rawText": "the second most abundant element on earth."
+      },
+      {
+        "words": [
+          {
+            "startTime": 24380,
+            "endTime": 24840,
+            "data": " Why?"
+          },
+          {
+            "startTime": 25820,
+            "endTime": 26220,
+            "data": " Silicon"
+          },
+          {
+            "startTime": 26220,
+            "endTime": 26780,
+            "data": " is"
+          },
+          {
+            "startTime": 26780,
+            "endTime": 26980,
+            "data": " a"
+          },
+          {
+            "startTime": 26980,
+            "endTime": 27600,
+            "data": " semiconductor."
+          }
+        ],
+        "startTime": 24380,
+        "endTime": 27600,
+        "rawText": "Why? Silicon is a semiconductor."
+      },
+      {
+        "words": [
+          {
+            "startTime": 28340,
+            "endTime": 28500,
+            "data": " It"
+          },
+          {
+            "startTime": 28500,
+            "endTime": 28720,
+            "data": " can"
+          },
+          {
+            "startTime": 28720,
+            "endTime": 28960,
+            "data": " both"
+          },
+          {
+            "startTime": 28960,
+            "endTime": 29420,
+            "data": " conduct"
+          },
+          {
+            "startTime": 29420,
+            "endTime": 30000,
+            "data": " and"
+          },
+          {
+            "startTime": 30000,
+            "endTime": 30640,
+            "data": " resist"
+          },
+          {
+            "startTime": 30640,
+            "endTime": 31420,
+            "data": " electricity,"
+          }
+        ],
+        "startTime": 28340,
+        "endTime": 31420,
+        "rawText": "It can both conduct and resist electricity,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 31420,
+            "endTime": 32240,
+            "data": " a"
+          },
+          {
+            "startTime": 32240,
+            "endTime": 32619,
+            "data": " unique"
+          },
+          {
+            "startTime": 32619,
+            "endTime": 33180,
+            "data": " property"
+          },
+          {
+            "startTime": 33180,
+            "endTime": 33940,
+            "data": " crucial"
+          },
+          {
+            "startTime": 33940,
+            "endTime": 34220,
+            "data": " for"
+          },
+          {
+            "startTime": 34220,
+            "endTime": 35680,
+            "data": " microchips."
+          }
+        ],
+        "startTime": 31420,
+        "endTime": 35680,
+        "rawText": "a unique property crucial for microchips."
+      },
+      {
+        "words": [
+          {
+            "startTime": 36480,
+            "endTime": 36980,
+            "data": " Transistors"
+          },
+          {
+            "startTime": 36980,
+            "endTime": 37480,
+            "data": " are"
+          },
+          {
+            "startTime": 37480,
+            "endTime": 37640,
+            "data": " the"
+          },
+          {
+            "startTime": 37640,
+            "endTime": 38020,
+            "data": " magic"
+          },
+          {
+            "startTime": 38020,
+            "endTime": 38720,
+            "data": " beans."
+          }
+        ],
+        "startTime": 36480,
+        "endTime": 38720,
+        "rawText": "Transistors are the magic beans."
+      },
+      {
+        "words": [
+          {
+            "startTime": 39630,
+            "endTime": 39910,
+            "data": " Acting"
+          },
+          {
+            "startTime": 39910,
+            "endTime": 40150,
+            "data": " as"
+          },
+          {
+            "startTime": 40150,
+            "endTime": 40690,
+            "data": " electronic"
+          },
+          {
+            "startTime": 40690,
+            "endTime": 41130,
+            "data": " switches,"
+          },
+          {
+            "startTime": 41550,
+            "endTime": 41710,
+            "data": " they"
+          },
+          {
+            "startTime": 41710,
+            "endTime": 41890,
+            "data": " can"
+          },
+          {
+            "startTime": 41890,
+            "endTime": 42150,
+            "data": " be"
+          },
+          {
+            "startTime": 42150,
+            "endTime": 42530,
+            "data": " on"
+          },
+          {
+            "startTime": 42530,
+            "endTime": 42990,
+            "data": " or"
+          },
+          {
+            "startTime": 42990,
+            "endTime": 43510,
+            "data": " off."
+          }
+        ],
+        "startTime": 39630,
+        "endTime": 43510,
+        "rawText": "Acting as electronic switches, they can be on or off."
+      },
+      {
+        "words": [
+          {
+            "startTime": 44410,
+            "endTime": 44930,
+            "data": " Millions,"
+          },
+          {
+            "startTime": 45190,
+            "endTime": 45550,
+            "data": " even"
+          },
+          {
+            "startTime": 45550,
+            "endTime": 46050,
+            "data": " billions,"
+          },
+          {
+            "startTime": 46550,
+            "endTime": 46770,
+            "data": " come"
+          },
+          {
+            "startTime": 46770,
+            "endTime": 47290,
+            "data": " together"
+          },
+          {
+            "startTime": 47290,
+            "endTime": 47750,
+            "data": " to"
+          },
+          {
+            "startTime": 47750,
+            "endTime": 47910,
+            "data": " make"
+          },
+          {
+            "startTime": 47910,
+            "endTime": 48170,
+            "data": " a"
+          },
+          {
+            "startTime": 48170,
+            "endTime": 48510,
+            "data": " single"
+          },
+          {
+            "startTime": 48510,
+            "endTime": 48870,
+            "data": " chip."
+          }
+        ],
+        "startTime": 44410,
+        "endTime": 48870,
+        "rawText": "Millions, even billions, come together to make a single chip."
+      },
+      {
+        "words": [
+          {
+            "startTime": 49960,
+            "endTime": 50220,
+            "data": " It's"
+          },
+          {
+            "startTime": 50220,
+            "endTime": 50460,
+            "data": " this"
+          },
+          {
+            "startTime": 50460,
+            "endTime": 50920,
+            "data": " binary"
+          },
+          {
+            "startTime": 50920,
+            "endTime": 51560,
+            "data": " language"
+          },
+          {
+            "startTime": 51560,
+            "endTime": 51980,
+            "data": " of"
+          },
+          {
+            "startTime": 51980,
+            "endTime": 52360,
+            "data": " ons"
+          },
+          {
+            "startTime": 52360,
+            "endTime": 52660,
+            "data": " and"
+          },
+          {
+            "startTime": 52660,
+            "endTime": 53060,
+            "data": " offs,"
+          }
+        ],
+        "startTime": 49960,
+        "endTime": 53060,
+        "rawText": "It's this binary language of ons and offs,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 53640,
+            "endTime": 54000,
+            "data": " ones"
+          },
+          {
+            "startTime": 54000,
+            "endTime": 54240,
+            "data": " and"
+          },
+          {
+            "startTime": 54240,
+            "endTime": 54640,
+            "data": " zeros,"
+          },
+          {
+            "startTime": 55200,
+            "endTime": 55380,
+            "data": " that"
+          },
+          {
+            "startTime": 55380,
+            "endTime": 55660,
+            "data": " forms"
+          },
+          {
+            "startTime": 55660,
+            "endTime": 55900,
+            "data": " the"
+          },
+          {
+            "startTime": 55900,
+            "endTime": 56340,
+            "data": " basis"
+          },
+          {
+            "startTime": 56340,
+            "endTime": 56840,
+            "data": " of"
+          },
+          {
+            "startTime": 56840,
+            "endTime": 57200,
+            "data": " digital"
+          },
+          {
+            "startTime": 57200,
+            "endTime": 57860,
+            "data": " computing."
+          }
+        ],
+        "startTime": 53640,
+        "endTime": 57860,
+        "rawText": "ones and zeros, that forms the basis of digital computing."
+      },
+      {
+        "words": [
+          {
+            "startTime": 58340,
+            "endTime": 60020,
+            "data": " Microchip"
+          },
+          {
+            "startTime": 60020,
+            "endTime": 60740,
+            "data": " manufacturing"
+          },
+          {
+            "startTime": 60740,
+            "endTime": 61420,
+            "data": " is"
+          },
+          {
+            "startTime": 61420,
+            "endTime": 61700,
+            "data": " an"
+          },
+          {
+            "startTime": 61700,
+            "endTime": 62160,
+            "data": " art."
+          }
+        ],
+        "startTime": 58340,
+        "endTime": 62160,
+        "rawText": "Microchip manufacturing is an art."
+      },
+      {
+        "words": [
+          {
+            "startTime": 63020,
+            "endTime": 63360,
+            "data": " Multiple"
+          },
+          {
+            "startTime": 63360,
+            "endTime": 63840,
+            "data": " layers"
+          },
+          {
+            "startTime": 63840,
+            "endTime": 64099,
+            "data": " of"
+          },
+          {
+            "startTime": 64099,
+            "endTime": 64640,
+            "data": " materials"
+          },
+          {
+            "startTime": 64640,
+            "endTime": 64980,
+            "data": " are"
+          },
+          {
+            "startTime": 64980,
+            "endTime": 65280,
+            "data": " added,"
+          },
+          {
+            "startTime": 65820,
+            "endTime": 66020,
+            "data": " altered"
+          },
+          {
+            "startTime": 66020,
+            "endTime": 66380,
+            "data": " or"
+          },
+          {
+            "startTime": 66380,
+            "endTime": 66780,
+            "data": " etched"
+          },
+          {
+            "startTime": 66780,
+            "endTime": 67200,
+            "data": " away"
+          },
+          {
+            "startTime": 67200,
+            "endTime": 67720,
+            "data": " on"
+          },
+          {
+            "startTime": 67720,
+            "endTime": 67960,
+            "data": " the"
+          },
+          {
+            "startTime": 67960,
+            "endTime": 68360,
+            "data": " silicon"
+          },
+          {
+            "startTime": 68360,
+            "endTime": 68920,
+            "data": " wafer."
+          }
+        ],
+        "startTime": 63020,
+        "endTime": 68920,
+        "rawText": "Multiple layers of materials are added, altered or etched away on the silicon wafer."
+      },
+      {
+        "words": [
+          {
+            "startTime": 69580,
+            "endTime": 69840,
+            "data": " Each"
+          },
+          {
+            "startTime": 69840,
+            "endTime": 70160,
+            "data": " layer"
+          },
+          {
+            "startTime": 70160,
+            "endTime": 70740,
+            "data": " serves"
+          },
+          {
+            "startTime": 70740,
+            "endTime": 71500,
+            "data": " specific"
+          },
+          {
+            "startTime": 71500,
+            "endTime": 72260,
+            "data": " functions,"
+          }
+        ],
+        "startTime": 69580,
+        "endTime": 72260,
+        "rawText": "Each layer serves specific functions,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 73060,
+            "endTime": 73200,
+            "data": " from"
+          },
+          {
+            "startTime": 73200,
+            "endTime": 73720,
+            "data": " conducting"
+          },
+          {
+            "startTime": 73720,
+            "endTime": 74440,
+            "data": " electricity"
+          },
+          {
+            "startTime": 74440,
+            "endTime": 75080,
+            "data": " to"
+          },
+          {
+            "startTime": 75080,
+            "endTime": 75720,
+            "data": " insulating"
+          },
+          {
+            "startTime": 75720,
+            "endTime": 76260,
+            "data": " different"
+          },
+          {
+            "startTime": 76260,
+            "endTime": 77020,
+            "data": " components."
+          }
+        ],
+        "startTime": 73060,
+        "endTime": 77020,
+        "rawText": "from conducting electricity to insulating different components."
+      },
+      {
+        "words": [
+          {
+            "startTime": 78430,
+            "endTime": 78550,
+            "data": " The"
+          },
+          {
+            "startTime": 78550,
+            "endTime": 79090,
+            "data": " chip's"
+          },
+          {
+            "startTime": 79090,
+            "endTime": 79650,
+            "data": " architecture,"
+          },
+          {
+            "startTime": 80010,
+            "endTime": 80210,
+            "data": " its"
+          },
+          {
+            "startTime": 80210,
+            "endTime": 80770,
+            "data": " design,"
+          },
+          {
+            "startTime": 81270,
+            "endTime": 81410,
+            "data": " is"
+          },
+          {
+            "startTime": 81410,
+            "endTime": 81570,
+            "data": " a"
+          },
+          {
+            "startTime": 81570,
+            "endTime": 82030,
+            "data": " blueprint"
+          },
+          {
+            "startTime": 82030,
+            "endTime": 82470,
+            "data": " of"
+          },
+          {
+            "startTime": 82470,
+            "endTime": 82990,
+            "data": " interconnections,"
+          }
+        ],
+        "startTime": 78430,
+        "endTime": 82990,
+        "rawText": "The chip's architecture, its design, is a blueprint of interconnections,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 83790,
+            "endTime": 84270,
+            "data": " ensuring"
+          },
+          {
+            "startTime": 84270,
+            "endTime": 84810,
+            "data": " each"
+          },
+          {
+            "startTime": 84810,
+            "endTime": 85350,
+            "data": " transistor"
+          },
+          {
+            "startTime": 85350,
+            "endTime": 86470,
+            "data": " communicates"
+          },
+          {
+            "startTime": 86470,
+            "endTime": 87050,
+            "data": " correctly."
+          }
+        ],
+        "startTime": 83790,
+        "endTime": 87050,
+        "rawText": "ensuring each transistor communicates correctly."
+      },
+      {
+        "words": [
+          {
+            "startTime": 87500,
+            "endTime": 88500,
+            "data": " When"
+          },
+          {
+            "startTime": 88500,
+            "endTime": 89160,
+            "data": " powered,"
+          },
+          {
+            "startTime": 89940,
+            "endTime": 90220,
+            "data": " electricity"
+          },
+          {
+            "startTime": 90220,
+            "endTime": 90700,
+            "data": " flows"
+          },
+          {
+            "startTime": 90700,
+            "endTime": 91020,
+            "data": " through"
+          },
+          {
+            "startTime": 91020,
+            "endTime": 91240,
+            "data": " the"
+          },
+          {
+            "startTime": 91240,
+            "endTime": 91820,
+            "data": " chip."
+          }
+        ],
+        "startTime": 87500,
+        "endTime": 91820,
+        "rawText": "When powered, electricity flows through the chip."
+      },
+      {
+        "words": [
+          {
+            "startTime": 92120,
+            "endTime": 92700,
+            "data": " Transistors"
+          },
+          {
+            "startTime": 92700,
+            "endTime": 93100,
+            "data": " work"
+          },
+          {
+            "startTime": 93100,
+            "endTime": 93280,
+            "data": " in"
+          },
+          {
+            "startTime": 93280,
+            "endTime": 93880,
+            "data": " groups,"
+          },
+          {
+            "startTime": 94400,
+            "endTime": 94580,
+            "data": " forming"
+          },
+          {
+            "startTime": 94580,
+            "endTime": 95420,
+            "data": " logic"
+          },
+          {
+            "startTime": 95420,
+            "endTime": 95940,
+            "data": " gates."
+          }
+        ],
+        "startTime": 92120,
+        "endTime": 95940,
+        "rawText": "Transistors work in groups, forming logic gates."
+      },
+      {
+        "words": [
+          {
+            "startTime": 96870,
+            "endTime": 97090,
+            "data": " These"
+          },
+          {
+            "startTime": 97090,
+            "endTime": 97370,
+            "data": " gates"
+          },
+          {
+            "startTime": 97370,
+            "endTime": 97870,
+            "data": " process"
+          },
+          {
+            "startTime": 97870,
+            "endTime": 98350,
+            "data": " binary"
+          },
+          {
+            "startTime": 98350,
+            "endTime": 98810,
+            "data": " inputs"
+          },
+          {
+            "startTime": 98810,
+            "endTime": 99270,
+            "data": " to"
+          },
+          {
+            "startTime": 99270,
+            "endTime": 99630,
+            "data": " produce"
+          },
+          {
+            "startTime": 99630,
+            "endTime": 100170,
+            "data": " specific"
+          },
+          {
+            "startTime": 100170,
+            "endTime": 100710,
+            "data": " outputs,"
+          }
+        ],
+        "startTime": 96870,
+        "endTime": 100710,
+        "rawText": "These gates process binary inputs to produce specific outputs,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 101370,
+            "endTime": 101530,
+            "data": " the"
+          },
+          {
+            "startTime": 101530,
+            "endTime": 101930,
+            "data": " basics"
+          },
+          {
+            "startTime": 101930,
+            "endTime": 102470,
+            "data": " of"
+          },
+          {
+            "startTime": 102470,
+            "endTime": 103190,
+            "data": " computation."
+          }
+        ],
+        "startTime": 101370,
+        "endTime": 103190,
+        "rawText": "the basics of computation."
+      },
+      {
+        "words": [
+          {
+            "startTime": 104220,
+            "endTime": 104460,
+            "data": " Every"
+          },
+          {
+            "startTime": 104460,
+            "endTime": 104640,
+            "data": " chip"
+          },
+          {
+            "startTime": 104640,
+            "endTime": 104860,
+            "data": " has"
+          },
+          {
+            "startTime": 104860,
+            "endTime": 105040,
+            "data": " a"
+          },
+          {
+            "startTime": 105040,
+            "endTime": 105280,
+            "data": " clock,"
+          },
+          {
+            "startTime": 105920,
+            "endTime": 105980,
+            "data": " giving"
+          },
+          {
+            "startTime": 105980,
+            "endTime": 106320,
+            "data": " it"
+          },
+          {
+            "startTime": 106320,
+            "endTime": 106660,
+            "data": " rhythm."
+          }
+        ],
+        "startTime": 104220,
+        "endTime": 106660,
+        "rawText": "Every chip has a clock, giving it rhythm."
+      },
+      {
+        "words": [
+          {
+            "startTime": 107120,
+            "endTime": 107260,
+            "data": " With"
+          },
+          {
+            "startTime": 107260,
+            "endTime": 107620,
+            "data": " each"
+          },
+          {
+            "startTime": 107620,
+            "endTime": 107980,
+            "data": " tick,"
+          },
+          {
+            "startTime": 108540,
+            "endTime": 109040,
+            "data": " commands"
+          },
+          {
+            "startTime": 109040,
+            "endTime": 109780,
+            "data": " are"
+          },
+          {
+            "startTime": 109780,
+            "endTime": 110340,
+            "data": " processed."
+          }
+        ],
+        "startTime": 107120,
+        "endTime": 110340,
+        "rawText": "With each tick, commands are processed."
+      },
+      {
+        "words": [
+          {
+            "startTime": 111240,
+            "endTime": 111540,
+            "data": " Faster"
+          },
+          {
+            "startTime": 111540,
+            "endTime": 111880,
+            "data": " clocks"
+          },
+          {
+            "startTime": 111880,
+            "endTime": 112140,
+            "data": " mean"
+          },
+          {
+            "startTime": 112140,
+            "endTime": 112440,
+            "data": " more"
+          },
+          {
+            "startTime": 112440,
+            "endTime": 112660,
+            "data": " ticks"
+          },
+          {
+            "startTime": 112660,
+            "endTime": 112960,
+            "data": " per"
+          },
+          {
+            "startTime": 112960,
+            "endTime": 113400,
+            "data": " second,"
+          }
+        ],
+        "startTime": 111240,
+        "endTime": 113400,
+        "rawText": "Faster clocks mean more ticks per second,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 113940,
+            "endTime": 114440,
+            "data": " translating"
+          },
+          {
+            "startTime": 114440,
+            "endTime": 114820,
+            "data": " to"
+          },
+          {
+            "startTime": 114820,
+            "endTime": 115140,
+            "data": " quicker"
+          },
+          {
+            "startTime": 115140,
+            "endTime": 115820,
+            "data": " processing."
+          }
+        ],
+        "startTime": 113940,
+        "endTime": 115820,
+        "rawText": "translating to quicker processing."
+      },
+      {
+        "words": [
+          {
+            "startTime": 115820,
+            "endTime": 117220,
+            "data": " Hence,"
+          },
+          {
+            "startTime": 117700,
+            "endTime": 117800,
+            "data": " clock"
+          },
+          {
+            "startTime": 117800,
+            "endTime": 118280,
+            "data": " speed"
+          },
+          {
+            "startTime": 118280,
+            "endTime": 118800,
+            "data": " is"
+          },
+          {
+            "startTime": 118800,
+            "endTime": 119160,
+            "data": " often"
+          },
+          {
+            "startTime": 119160,
+            "endTime": 119380,
+            "data": " a"
+          },
+          {
+            "startTime": 119380,
+            "endTime": 119620,
+            "data": " measure"
+          },
+          {
+            "startTime": 119620,
+            "endTime": 119860,
+            "data": " of"
+          },
+          {
+            "startTime": 119860,
+            "endTime": 120000,
+            "data": " a"
+          },
+          {
+            "startTime": 120000,
+            "endTime": 120420,
+            "data": " chip's"
+          },
+          {
+            "startTime": 120420,
+            "endTime": 121100,
+            "data": " capability."
+          }
+        ],
+        "startTime": 115820,
+        "endTime": 121100,
+        "rawText": "Hence, clock speed is often a measure of a chip's capability."
+      },
+      {
+        "words": [
+          {
+            "startTime": 122330,
+            "endTime": 122450,
+            "data": " Not"
+          },
+          {
+            "startTime": 122450,
+            "endTime": 122970,
+            "data": " all"
+          },
+          {
+            "startTime": 122970,
+            "endTime": 123410,
+            "data": " transistors"
+          },
+          {
+            "startTime": 123410,
+            "endTime": 124070,
+            "data": " process."
+          }
+        ],
+        "startTime": 122330,
+        "endTime": 124070,
+        "rawText": "Not all transistors process."
+      },
+      {
+        "words": [
+          {
+            "startTime": 124570,
+            "endTime": 124790,
+            "data": " Some"
+          },
+          {
+            "startTime": 124790,
+            "endTime": 125470,
+            "data": " remember,"
+          },
+          {
+            "startTime": 126010,
+            "endTime": 126330,
+            "data": " certain"
+          },
+          {
+            "startTime": 126330,
+            "endTime": 127150,
+            "data": " configurations"
+          },
+          {
+            "startTime": 127150,
+            "endTime": 127570,
+            "data": " store"
+          },
+          {
+            "startTime": 127570,
+            "endTime": 128190,
+            "data": " data,"
+          },
+          {
+            "startTime": 128289,
+            "endTime": 128789,
+            "data": " albeit"
+          },
+          {
+            "startTime": 128789,
+            "endTime": 129490,
+            "data": " temporarily."
+          }
+        ],
+        "startTime": 124570,
+        "endTime": 129490,
+        "rawText": "Some remember, certain configurations store data, albeit temporarily."
+      },
+      {
+        "words": [
+          {
+            "startTime": 130389,
+            "endTime": 130550,
+            "data": " This"
+          },
+          {
+            "startTime": 130550,
+            "endTime": 131050,
+            "data": " volatile"
+          },
+          {
+            "startTime": 131050,
+            "endTime": 131710,
+            "data": " memory,"
+          },
+          {
+            "startTime": 131790,
+            "endTime": 132070,
+            "data": " or"
+          },
+          {
+            "startTime": 132070,
+            "endTime": 132470,
+            "data": " RAM,"
+          },
+          {
+            "startTime": 132850,
+            "endTime": 133170,
+            "data": " holds"
+          },
+          {
+            "startTime": 133170,
+            "endTime": 133530,
+            "data": " data"
+          },
+          {
+            "startTime": 133530,
+            "endTime": 133750,
+            "data": " for"
+          },
+          {
+            "startTime": 133750,
+            "endTime": 133990,
+            "data": " quick"
+          },
+          {
+            "startTime": 133990,
+            "endTime": 134570,
+            "data": " access."
+          }
+        ],
+        "startTime": 130389,
+        "endTime": 134570,
+        "rawText": "This volatile memory, or RAM, holds data for quick access."
+      },
+      {
+        "words": [
+          {
+            "startTime": 135210,
+            "endTime": 135430,
+            "data": " Others"
+          },
+          {
+            "startTime": 135430,
+            "endTime": 135790,
+            "data": " store"
+          },
+          {
+            "startTime": 135790,
+            "endTime": 136110,
+            "data": " data"
+          },
+          {
+            "startTime": 136110,
+            "endTime": 136530,
+            "data": " long"
+          },
+          {
+            "startTime": 136530,
+            "endTime": 137030,
+            "data": "-term,"
+          },
+          {
+            "startTime": 137270,
+            "endTime": 137510,
+            "data": " like"
+          },
+          {
+            "startTime": 137510,
+            "endTime": 137790,
+            "data": " in"
+          },
+          {
+            "startTime": 137790,
+            "endTime": 138010,
+            "data": " flash"
+          },
+          {
+            "startTime": 138010,
+            "endTime": 138530,
+            "data": " memory."
+          }
+        ],
+        "startTime": 135210,
+        "endTime": 138530,
+        "rawText": "Others store data long-term, like in flash memory."
+      },
+      {
+        "words": [
+          {
+            "startTime": 139750,
+            "endTime": 139990,
+            "data": " Modern"
+          },
+          {
+            "startTime": 139990,
+            "endTime": 140690,
+            "data": " microchips,"
+          },
+          {
+            "startTime": 140870,
+            "endTime": 141070,
+            "data": " like"
+          },
+          {
+            "startTime": 141070,
+            "endTime": 141690,
+            "data": " SoCs,"
+          },
+          {
+            "startTime": 142090,
+            "endTime": 142350,
+            "data": " aren't"
+          },
+          {
+            "startTime": 142350,
+            "endTime": 142710,
+            "data": " just"
+          },
+          {
+            "startTime": 142710,
+            "endTime": 143490,
+            "data": " CPUs."
+          }
+        ],
+        "startTime": 139750,
+        "endTime": 143490,
+        "rawText": "Modern microchips, like SoCs, aren't just CPUs."
+      },
+      {
+        "words": [
+          {
+            "startTime": 143590,
+            "endTime": 144490,
+            "data": " They"
+          },
+          {
+            "startTime": 144490,
+            "endTime": 144950,
+            "data": " combine"
+          },
+          {
+            "startTime": 144950,
+            "endTime": 145710,
+            "data": " processors,"
+          },
+          {
+            "startTime": 146290,
+            "endTime": 146550,
+            "data": " graphics"
+          },
+          {
+            "startTime": 146550,
+            "endTime": 147010,
+            "data": " units,"
+          },
+          {
+            "startTime": 147450,
+            "endTime": 147770,
+            "data": " memory"
+          },
+          {
+            "startTime": 147770,
+            "endTime": 147990,
+            "data": " and"
+          },
+          {
+            "startTime": 147990,
+            "endTime": 148490,
+            "data": " more,"
+          }
+        ],
+        "startTime": 143590,
+        "endTime": 148490,
+        "rawText": "They combine processors, graphics units, memory and more,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 149030,
+            "endTime": 149130,
+            "data": " offering"
+          },
+          {
+            "startTime": 149130,
+            "endTime": 149390,
+            "data": " a"
+          },
+          {
+            "startTime": 149390,
+            "endTime": 149830,
+            "data": " complete"
+          },
+          {
+            "startTime": 149830,
+            "endTime": 150330,
+            "data": " system"
+          },
+          {
+            "startTime": 150330,
+            "endTime": 150830,
+            "data": " in"
+          },
+          {
+            "startTime": 150830,
+            "endTime": 151090,
+            "data": " one"
+          },
+          {
+            "startTime": 151090,
+            "endTime": 151470,
+            "data": " chip."
+          }
+        ],
+        "startTime": 149030,
+        "endTime": 151470,
+        "rawText": "offering a complete system in one chip."
+      },
+      {
+        "words": [
+          {
+            "startTime": 152760,
+            "endTime": 152880,
+            "data": " The"
+          },
+          {
+            "startTime": 152880,
+            "endTime": 153100,
+            "data": " magic"
+          },
+          {
+            "startTime": 153100,
+            "endTime": 153340,
+            "data": " is"
+          },
+          {
+            "startTime": 153340,
+            "endTime": 153500,
+            "data": " in"
+          },
+          {
+            "startTime": 153500,
+            "endTime": 154380,
+            "data": " miniaturization."
+          }
+        ],
+        "startTime": 152760,
+        "endTime": 154380,
+        "rawText": "The magic is in miniaturization."
+      },
+      {
+        "words": [
+          {
+            "startTime": 155280,
+            "endTime": 155360,
+            "data": " As"
+          },
+          {
+            "startTime": 155360,
+            "endTime": 155560,
+            "data": " tech"
+          },
+          {
+            "startTime": 155560,
+            "endTime": 156220,
+            "data": " evolved,"
+          },
+          {
+            "startTime": 156920,
+            "endTime": 157220,
+            "data": " transistors"
+          },
+          {
+            "startTime": 157220,
+            "endTime": 158280,
+            "data": " shrunk."
+          }
+        ],
+        "startTime": 155280,
+        "endTime": 158280,
+        "rawText": "As tech evolved, transistors shrunk."
+      },
+      {
+        "words": [
+          {
+            "startTime": 158640,
+            "endTime": 159100,
+            "data": " Today's"
+          },
+          {
+            "startTime": 159100,
+            "endTime": 159660,
+            "data": " microchips"
+          },
+          {
+            "startTime": 159660,
+            "endTime": 159960,
+            "data": " pack"
+          },
+          {
+            "startTime": 159960,
+            "endTime": 160420,
+            "data": " billions"
+          },
+          {
+            "startTime": 160420,
+            "endTime": 161000,
+            "data": " in"
+          },
+          {
+            "startTime": 161000,
+            "endTime": 161300,
+            "data": " a"
+          },
+          {
+            "startTime": 161300,
+            "endTime": 161600,
+            "data": " space"
+          },
+          {
+            "startTime": 161600,
+            "endTime": 161920,
+            "data": " smaller"
+          },
+          {
+            "startTime": 161920,
+            "endTime": 162100,
+            "data": " than"
+          },
+          {
+            "startTime": 162100,
+            "endTime": 162380,
+            "data": " your"
+          },
+          {
+            "startTime": 162380,
+            "endTime": 163200,
+            "data": " fingernail."
+          }
+        ],
+        "startTime": 158640,
+        "endTime": 163200,
+        "rawText": "Today's microchips pack billions in a space smaller than your fingernail."
+      },
+      {
+        "words": [
+          {
+            "startTime": 163460,
+            "endTime": 163640,
+            "data": " But"
+          },
+          {
+            "startTime": 163640,
+            "endTime": 164040,
+            "data": " challenges"
+          },
+          {
+            "startTime": 164040,
+            "endTime": 164680,
+            "data": " arise."
+          }
+        ],
+        "startTime": 163460,
+        "endTime": 164680,
+        "rawText": "But challenges arise."
+      },
+      {
+        "words": [
+          {
+            "startTime": 165580,
+            "endTime": 165600,
+            "data": " They"
+          },
+          {
+            "startTime": 165600,
+            "endTime": 166040,
+            "data": " generate"
+          },
+          {
+            "startTime": 166040,
+            "endTime": 166540,
+            "data": " heat,"
+          },
+          {
+            "startTime": 166900,
+            "endTime": 167140,
+            "data": " hence"
+          },
+          {
+            "startTime": 167140,
+            "endTime": 167520,
+            "data": " cooling"
+          },
+          {
+            "startTime": 167520,
+            "endTime": 168100,
+            "data": " solutions"
+          },
+          {
+            "startTime": 168100,
+            "endTime": 168380,
+            "data": " in"
+          },
+          {
+            "startTime": 168380,
+            "endTime": 168960,
+            "data": " devices."
+          }
+        ],
+        "startTime": 165580,
+        "endTime": 168960,
+        "rawText": "They generate heat, hence cooling solutions in devices."
+      },
+      {
+        "words": [
+          {
+            "startTime": 170160,
+            "endTime": 170740,
+            "data": " Silicon's"
+          },
+          {
+            "startTime": 170740,
+            "endTime": 170960,
+            "data": " reign"
+          },
+          {
+            "startTime": 170960,
+            "endTime": 171220,
+            "data": " may"
+          },
+          {
+            "startTime": 171220,
+            "endTime": 171440,
+            "data": " not"
+          },
+          {
+            "startTime": 171440,
+            "endTime": 171680,
+            "data": " last"
+          },
+          {
+            "startTime": 171680,
+            "endTime": 172200,
+            "data": " forever."
+          }
+        ],
+        "startTime": 170160,
+        "endTime": 172200,
+        "rawText": "Silicon's reign may not last forever."
+      },
+      {
+        "words": [
+          {
+            "startTime": 172200,
+            "endTime": 173440,
+            "data": " Engineers"
+          },
+          {
+            "startTime": 173440,
+            "endTime": 173820,
+            "data": " eye"
+          },
+          {
+            "startTime": 173820,
+            "endTime": 174480,
+            "data": " materials"
+          },
+          {
+            "startTime": 174480,
+            "endTime": 175060,
+            "data": " like"
+          },
+          {
+            "startTime": 175060,
+            "endTime": 175820,
+            "data": " graphene"
+          },
+          {
+            "startTime": 175820,
+            "endTime": 176360,
+            "data": " and"
+          },
+          {
+            "startTime": 176360,
+            "endTime": 176780,
+            "data": " gallium"
+          },
+          {
+            "startTime": 176780,
+            "endTime": 177660,
+            "data": " nitride,"
+          }
+        ],
+        "startTime": 172200,
+        "endTime": 177660,
+        "rawText": "Engineers eye materials like graphene and gallium nitride,"
+      },
+      {
+        "words": [
+          {
+            "startTime": 178300,
+            "endTime": 178400,
+            "data": " aiming"
+          },
+          {
+            "startTime": 178400,
+            "endTime": 178740,
+            "data": " to"
+          },
+          {
+            "startTime": 178740,
+            "endTime": 179020,
+            "data": " craft"
+          },
+          {
+            "startTime": 179020,
+            "endTime": 179520,
+            "data": " even"
+          },
+          {
+            "startTime": 179520,
+            "endTime": 180100,
+            "data": " more"
+          },
+          {
+            "startTime": 180100,
+            "endTime": 180640,
+            "data": " efficient"
+          },
+          {
+            "startTime": 180640,
+            "endTime": 181220,
+            "data": " chips."
+          }
+        ],
+        "startTime": 178300,
+        "endTime": 181220,
+        "rawText": "aiming to craft even more efficient chips."
+      },
+      {
+        "words": [
+          {
+            "startTime": 182340,
+            "endTime": 182620,
+            "data": " Tiny"
+          },
+          {
+            "startTime": 182620,
+            "endTime": 182820,
+            "data": " they"
+          },
+          {
+            "startTime": 182820,
+            "endTime": 183120,
+            "data": " may"
+          },
+          {
+            "startTime": 183120,
+            "endTime": 183680,
+            "data": " be,"
+          },
+          {
+            "startTime": 184100,
+            "endTime": 184660,
+            "data": " microchips"
+          },
+          {
+            "startTime": 184660,
+            "endTime": 185060,
+            "data": " power"
+          },
+          {
+            "startTime": 185060,
+            "endTime": 185380,
+            "data": " our"
+          },
+          {
+            "startTime": 185380,
+            "endTime": 185920,
+            "data": " colossal"
+          },
+          {
+            "startTime": 185920,
+            "endTime": 186280,
+            "data": " digital"
+          },
+          {
+            "startTime": 186280,
+            "endTime": 186780,
+            "data": " world."
+          }
+        ],
+        "startTime": 182340,
+        "endTime": 186780,
+        "rawText": "Tiny they may be, microchips power our colossal digital world."
+      },
+      {
+        "words": [
+          {
+            "startTime": 187400,
+            "endTime": 187720,
+            "data": " Every"
+          },
+          {
+            "startTime": 187720,
+            "endTime": 188120,
+            "data": " click,"
+          },
+          {
+            "startTime": 188520,
+            "endTime": 188780,
+            "data": " swipe"
+          },
+          {
+            "startTime": 188780,
+            "endTime": 189400,
+            "data": " or"
+          },
+          {
+            "startTime": 189400,
+            "endTime": 189680,
+            "data": " beep"
+          },
+          {
+            "startTime": 189680,
+            "endTime": 190220,
+            "data": " at"
+          },
+          {
+            "startTime": 190220,
+            "endTime": 190500,
+            "data": " its"
+          },
+          {
+            "startTime": 190500,
+            "endTime": 190800,
+            "data": " heart"
+          }
+        ],
+        "startTime": 187400,
+        "endTime": 190800,
+        "rawText": "Every click, swipe or beep at its heart"
+      },
+      {
+        "words": [
+          {
+            "startTime": 190800,
+            "endTime": 191320,
+            "data": " is"
+          },
+          {
+            "startTime": 191320,
+            "endTime": 191520,
+            "data": " the"
+          },
+          {
+            "startTime": 191520,
+            "endTime": 191720,
+            "data": " dance"
+          },
+          {
+            "startTime": 191720,
+            "endTime": 192080,
+            "data": " of"
+          },
+          {
+            "startTime": 192080,
+            "endTime": 192600,
+            "data": " transistors"
+          },
+          {
+            "startTime": 192600,
+            "endTime": 192880,
+            "data": " on"
+          },
+          {
+            "startTime": 192880,
+            "endTime": 193100,
+            "data": " a"
+          },
+          {
+            "startTime": 193100,
+            "endTime": 193320,
+            "data": " speck"
+          },
+          {
+            "startTime": 193320,
+            "endTime": 193540,
+            "data": " of"
+          },
+          {
+            "startTime": 193540,
+            "endTime": 193860,
+            "data": " silicon."
+          }
+        ],
+        "startTime": 190800,
+        "endTime": 193860,
+        "rawText": "is the dance of transistors on a speck of silicon."
+      }
+    ]
+  }
+}

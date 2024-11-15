@@ -1,0 +1,184 @@
+1
+00:00:01,550 --> 00:00:03,430
+How does a microchip work?
+
+2
+00:00:06,530 --> 00:00:10,689
+This modern world, it's driven by something incredibly tiny.
+
+3
+00:00:11,429 --> 00:00:14,730
+The beating heart of your gadgets, the microchip.
+
+4
+00:00:15,890 --> 00:00:19,609
+At its core, microchips are made of silicon,
+
+5
+00:00:20,250 --> 00:00:23,449
+the second most abundant element on earth.
+
+6
+00:00:24,379 --> 00:00:27,600
+Why? Silicon is a semiconductor.
+
+7
+00:00:28,339 --> 00:00:31,420
+It can both conduct and resist electricity,
+
+8
+00:00:31,420 --> 00:00:35,679
+a unique property crucial for microchips.
+
+9
+00:00:36,479 --> 00:00:38,719
+Transistors are the magic beans.
+
+10
+00:00:39,630 --> 00:00:43,509
+Acting as electronic switches, they can be on or off.
+
+11
+00:00:44,409 --> 00:00:48,869
+Millions, even billions, come together to make a single chip.
+
+12
+00:00:49,960 --> 00:00:53,060
+It's this binary language of ons and offs,
+
+13
+00:00:53,640 --> 00:00:57,859
+ones and zeros, that forms the basis of digital computing.
+
+14
+00:00:58,340 --> 00:01:02,159
+Microchip manufacturing is an art.
+
+15
+00:01:03,020 --> 00:01:08,920
+Multiple layers of materials are added, altered or etched away on the silicon wafer.
+
+16
+00:01:09,579 --> 00:01:12,260
+Each layer serves specific functions,
+
+17
+00:01:13,060 --> 00:01:17,019
+from conducting electricity to insulating different components.
+
+18
+00:01:18,430 --> 00:01:22,989
+The chip's architecture, its design, is a blueprint of interconnections,
+
+19
+00:01:23,790 --> 00:01:27,049
+ensuring each transistor communicates correctly.
+
+20
+00:01:27,500 --> 00:01:31,819
+When powered, electricity flows through the chip.
+
+21
+00:01:32,120 --> 00:01:35,939
+Transistors work in groups, forming logic gates.
+
+22
+00:01:36,870 --> 00:01:40,709
+These gates process binary inputs to produce specific outputs,
+
+23
+00:01:41,370 --> 00:01:43,189
+the basics of computation.
+
+24
+00:01:44,219 --> 00:01:46,659
+Every chip has a clock, giving it rhythm.
+
+25
+00:01:47,120 --> 00:01:50,340
+With each tick, commands are processed.
+
+26
+00:01:51,239 --> 00:01:53,400
+Faster clocks mean more ticks per second,
+
+27
+00:01:53,939 --> 00:01:55,819
+translating to quicker processing.
+
+28
+00:01:55,819 --> 00:02:01,099
+Hence, clock speed is often a measure of a chip's capability.
+
+29
+00:02:02,329 --> 00:02:04,069
+Not all transistors process.
+
+30
+00:02:04,569 --> 00:02:09,490
+Some remember, certain configurations store data, albeit temporarily.
+
+31
+00:02:10,389 --> 00:02:14,569
+This volatile memory, or RAM, holds data for quick access.
+
+32
+00:02:15,210 --> 00:02:18,530
+Others store data long-term, like in flash memory.
+
+33
+00:02:19,750 --> 00:02:23,490
+Modern microchips, like SoCs, aren't just CPUs.
+
+34
+00:02:23,590 --> 00:02:28,490
+They combine processors, graphics units, memory and more,
+
+35
+00:02:29,030 --> 00:02:31,469
+offering a complete system in one chip.
+
+36
+00:02:32,759 --> 00:02:34,379
+The magic is in miniaturization.
+
+37
+00:02:35,280 --> 00:02:38,280
+As tech evolved, transistors shrunk.
+
+38
+00:02:38,639 --> 00:02:43,199
+Today's microchips pack billions in a space smaller than your fingernail.
+
+39
+00:02:43,460 --> 00:02:44,680
+But challenges arise.
+
+40
+00:02:45,580 --> 00:02:48,960
+They generate heat, hence cooling solutions in devices.
+
+41
+00:02:50,159 --> 00:02:52,199
+Silicon's reign may not last forever.
+
+42
+00:02:52,199 --> 00:02:57,659
+Engineers eye materials like graphene and gallium nitride,
+
+43
+00:02:58,300 --> 00:03:01,219
+aiming to craft even more efficient chips.
+
+44
+00:03:02,340 --> 00:03:06,780
+Tiny they may be, microchips power our colossal digital world.
+
+45
+00:03:07,400 --> 00:03:10,800
+Every click, swipe or beep at its heart
+
+46
+00:03:10,800 --> 00:03:13,860
+is the dance of transistors on a speck of silicon.
+

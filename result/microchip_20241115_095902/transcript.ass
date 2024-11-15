@@ -1,0 +1,101 @@
+[Script Info]
+Title: Lyrics
+ScriptType: v4.00+
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.55,0:00:03.43,Default,,0,0,0,,How does a microchip work?
+Dialogue: 0,0:00:06.53,0:00:10.69,Default,,0,0,0,,This modern world, it's driven by something incredibly tiny.
+Dialogue: 0,0:00:11.43,0:00:14.73,Default,,0,0,0,,The beating heart of your gadgets, the microchip.
+Dialogue: 0,0:00:15.89,0:00:19.61,Default,,0,0,0,,At its core, microchips are made of silicon,
+Dialogue: 0,0:00:20.25,0:00:23.45,Default,,0,0,0,,the second most abundant element on earth.
+Dialogue: 0,0:00:24.38,0:00:27.60,Default,,0,0,0,,Why? Silicon is a semiconductor.
+Dialogue: 0,0:00:28.34,0:00:31.42,Default,,0,0,0,,It can both conduct and resist electricity,
+Dialogue: 0,0:00:31.42,0:00:35.68,Default,,0,0,0,,a unique property crucial for microchips.
+Dialogue: 0,0:00:36.48,0:00:38.72,Default,,0,0,0,,Transistors are the magic beans.
+Dialogue: 0,0:00:39.63,0:00:43.51,Default,,0,0,0,,Acting as electronic switches, they can be on or off.
+Dialogue: 0,0:00:44.41,0:00:48.87,Default,,0,0,0,,Millions, even billions, come together to make a single chip.
+Dialogue: 0,0:00:49.96,0:00:53.06,Default,,0,0,0,,It's this binary language of ons and offs,
+Dialogue: 0,0:00:53.64,0:00:57.86,Default,,0,0,0,,ones and zeros, that forms the basis of digital computing.
+Dialogue: 0,0:00:58.34,0:01:02.16,Default,,0,0,0,,Microchip manufacturing is an art.
+Dialogue: 0,0:01:03.02,0:01:08.92,Default,,0,0,0,,Multiple layers of materials are added, altered or etched away on the silicon wafer.
+Dialogue: 0,0:01:09.58,0:01:12.26,Default,,0,0,0,,Each layer serves specific functions,
+Dialogue: 0,0:01:13.06,0:01:17.02,Default,,0,0,0,,from conducting electricity to insulating different components.
+Dialogue: 0,0:01:18.43,0:01:22.99,Default,,0,0,0,,The chip's architecture, its design, is a blueprint of interconnections,
+Dialogue: 0,0:01:23.79,0:01:27.05,Default,,0,0,0,,ensuring each transistor communicates correctly.
+Dialogue: 0,0:01:27.50,0:01:31.82,Default,,0,0,0,,When powered, electricity flows through the chip.
+Dialogue: 0,0:01:32.12,0:01:35.94,Default,,0,0,0,,Transistors work in groups, forming logic gates.
+Dialogue: 0,0:01:36.87,0:01:40.71,Default,,0,0,0,,These gates process binary inputs to produce specific outputs,
+Dialogue: 0,0:01:41.37,0:01:43.19,Default,,0,0,0,,the basics of computation.
+Dialogue: 0,0:01:44.22,0:01:46.66,Default,,0,0,0,,Every chip has a clock, giving it rhythm.
+Dialogue: 0,0:01:47.12,0:01:50.34,Default,,0,0,0,,With each tick, commands are processed.
+Dialogue: 0,0:01:51.24,0:01:53.40,Default,,0,0,0,,Faster clocks mean more ticks per second,
+Dialogue: 0,0:01:53.94,0:01:55.82,Default,,0,0,0,,translating to quicker processing.
+Dialogue: 0,0:01:55.82,0:02:01.10,Default,,0,0,0,,Hence, clock speed is often a measure of a chip's capability.
+Dialogue: 0,0:02:02.33,0:02:04.07,Default,,0,0,0,,Not all transistors process.
+Dialogue: 0,0:02:04.57,0:02:09.49,Default,,0,0,0,,Some remember, certain configurations store data, albeit temporarily.
+Dialogue: 0,0:02:10.39,0:02:14.57,Default,,0,0,0,,This volatile memory, or RAM, holds data for quick access.
+Dialogue: 0,0:02:15.21,0:02:18.53,Default,,0,0,0,,Others store data long-term, like in flash memory.
+Dialogue: 0,0:02:19.75,0:02:23.49,Default,,0,0,0,,Modern microchips, like SoCs, aren't just CPUs.
+Dialogue: 0,0:02:23.59,0:02:28.49,Default,,0,0,0,,They combine processors, graphics units, memory and more,
+Dialogue: 0,0:02:29.03,0:02:31.47,Default,,0,0,0,,offering a complete system in one chip.
+Dialogue: 0,0:02:32.76,0:02:34.38,Default,,0,0,0,,The magic is in miniaturization.
+Dialogue: 0,0:02:35.28,0:02:38.28,Default,,0,0,0,,As tech evolved, transistors shrunk.
+Dialogue: 0,0:02:38.64,0:02:43.20,Default,,0,0,0,,Today's microchips pack billions in a space smaller than your fingernail.
+Dialogue: 0,0:02:43.46,0:02:44.68,Default,,0,0,0,,But challenges arise.
+Dialogue: 0,0:02:45.58,0:02:48.96,Default,,0,0,0,,They generate heat, hence cooling solutions in devices.
+Dialogue: 0,0:02:50.16,0:02:52.20,Default,,0,0,0,,Silicon's reign may not last forever.
+Dialogue: 0,0:02:52.20,0:02:57.66,Default,,0,0,0,,Engineers eye materials like graphene and gallium nitride,
+Dialogue: 0,0:02:58.30,0:03:01.22,Default,,0,0,0,,aiming to craft even more efficient chips.
+Dialogue: 0,0:03:02.34,0:03:06.78,Default,,0,0,0,,Tiny they may be, microchips power our colossal digital world.
+Dialogue: 0,0:03:07.40,0:03:10.80,Default,,0,0,0,,Every click, swipe or beep at its heart
+Dialogue: 0,0:03:10.80,0:03:13.86,Default,,0,0,0,,is the dance of transistors on a speck of silicon.
+
+Dialogue: 0,0:00:01.55,0:00:03.43,Default,,0,0,0,,Vi mạch hoạt động như thế nào?
+Dialogue: 0,0:00:06.53,0:00:10.69,Default,,0,0,0,,Thế giới hiện đại này được điều khiển bởi thứ gì đó vô cùng nhỏ bé.
+Dialogue: 0,0:00:11.43,0:00:14.73,Default,,0,0,0,,Trái tim của các thiết bị của bạn, chính là vi mạch.
+Dialogue: 0,0:00:15.89,0:00:19.61,Default,,0,0,0,,Vi mạch được làm từ silicon, một trong những nguyên tố phong phú nhất trên trái đất.
+Dialogue: 0,0:00:20.25,0:00:23.45,Default,,0,0,0,,Tại sao? Vì silicon là chất bán dẫn.
+Dialogue: 0,0:00:24.38,0:00:27.60,Default,,0,0,0,,Nó vừa dẫn điện vừa cản điện, một đặc tính quan trọng cho vi mạch.
+Dialogue: 0,0:00:28.34,0:00:31.42,Default,,0,0,0,,Transistor chính là những “hạt đậu thần” của vi mạch.
+Dialogue: 0,0:00:39.63,0:00:43.51,Default,,0,0,0,,Hoạt động như các công tắc điện tử, chúng có thể bật hoặc tắt.
+Dialogue: 0,0:00:44.41,0:00:48.87,Default,,0,0,0,,Hàng triệu, thậm chí hàng tỷ, được kết hợp thành một con chip duy nhất.
+Dialogue: 0,0:00:49.96,0:00:53.06,Default,,0,0,0,,Ngôn ngữ nhị phân này của bật và tắt,
+Dialogue: 0,0:00:53.64,0:00:57.86,Default,,0,0,0,,một và không, là nền tảng của điện toán kỹ thuật số.
+Dialogue: 0,0:00:58.34,0:01:02.16,Default,,0,0,0,,Quá trình sản xuất vi mạch là một nghệ thuật.
+Dialogue: 0,0:01:03.02,0:01:08.92,Default,,0,0,0,,Nhiều lớp vật liệu được thêm vào, thay đổi hoặc khắc trên tấm silicon.
+Dialogue: 0,0:01:09.58,0:01:12.26,Default,,0,0,0,,Mỗi lớp có chức năng riêng,
+Dialogue: 0,0:01:13.06,0:01:17.02,Default,,0,0,0,,từ dẫn điện đến cách điện các thành phần khác nhau.
+Dialogue: 0,0:01:18.43,0:01:22.99,Default,,0,0,0,,Thiết kế của con chip giống như bản vẽ kết nối,
+Dialogue: 0,0:01:23.79,0:01:27.05,Default,,0,0,0,,đảm bảo mỗi transistor giao tiếp chính xác.
+Dialogue: 0,0:01:27.50,0:01:31.82,Default,,0,0,0,,Khi có điện, dòng điện chạy qua chip.
+Dialogue: 0,0:01:32.12,0:01:35.94,Default,,0,0,0,,Transistor hoạt động theo nhóm, tạo thành các cổng logic.
+Dialogue: 0,0:01:36.87,0:01:40.71,Default,,0,0,0,,Các cổng này xử lý các đầu vào nhị phân để tạo ra đầu ra cụ thể,
+Dialogue: 0,0:01:41.37,0:01:43.19,Default,,0,0,0,,đây là cơ bản của tính toán.
+Dialogue: 0,0:01:44.22,0:01:46.66,Default,,0,0,0,,Mỗi chip có một bộ đếm nhịp, tạo nhịp điệu cho nó.
+Dialogue: 0,0:01:47.12,0:01:50.34,Default,,0,0,0,,Mỗi nhịp là một lệnh được xử lý.
+Dialogue: 0,0:01:51.24,0:01:53.40,Default,,0,0,0,,Tốc độ đếm nhịp nhanh hơn có nghĩa là nhiều nhịp mỗi giây hơn,
+Dialogue: 0,0:01:53.94,0:01:55.82,Default,,0,0,0,,tương đương với xử lý nhanh hơn.
+Dialogue: 0,0:01:55.82,0:02:01.10,Default,,0,0,0,,Vì vậy, tốc độ đếm nhịp thường là thước đo khả năng của một con chip.
+Dialogue: 0,0:02:02.33,0:02:04.07,Default,,0,0,0,,Không phải tất cả các transistor đều xử lý.
+Dialogue: 0,0:02:04.57,0:02:09.49,Default,,0,0,0,,Một số có thể nhớ, các cấu hình nhất định lưu trữ dữ liệu, dù chỉ tạm thời.
+Dialogue: 0,0:02:10.39,0:02:14.57,Default,,0,0,0,,Bộ nhớ dễ mất này, hay còn gọi là RAM, giữ dữ liệu để truy cập nhanh chóng.
+Dialogue: 0,0:02:15.21,0:02:18.53,Default,,0,0,0,,Các chip khác lưu trữ dữ liệu lâu dài, như bộ nhớ flash.
+Dialogue: 0,0:02:19.75,0:02:23.49,Default,,0,0,0,,Vi mạch hiện đại, như SoC, không chỉ là CPU.
+Dialogue: 0,0:02:23.59,0:02:28.49,Default,,0,0,0,,Chúng kết hợp bộ xử lý, đơn vị đồ họa, bộ nhớ và nhiều thành phần khác,
+Dialogue: 0,0:02:29.03,0:02:31.47,Default,,0,0,0,,cung cấp một hệ thống hoàn chỉnh trên một chip duy nhất.
+Dialogue: 0,0:02:32.76,0:02:34.38,Default,,0,0,0,,Phép màu nằm ở sự thu nhỏ.
+Dialogue: 0,0:02:35.28,0:02:38.28,Default,,0,0,0,,Khi công nghệ phát triển, transistor càng nhỏ hơn.
+Dialogue: 0,0:02:38.64,0:02:43.20,Default,,0,0,0,,Vi mạch ngày nay chứa hàng tỷ transistor trong không gian nhỏ hơn cả móng tay bạn.
+Dialogue: 0,0:02:43.46,0:02:44.68,Default,,0,0,0,,Nhưng thách thức cũng xuất hiện.
+Dialogue: 0,0:02:45.58,0:02:48.96,Default,,0,0,0,,Chúng tạo ra nhiệt, do đó cần giải pháp làm mát cho thiết bị.
+Dialogue: 0,0:02:50.16,0:02:52.20,Default,,0,0,0,,Kỷ nguyên của silicon có thể không tồn tại mãi.
+Dialogue: 0,0:02:52.20,0:02:57.66,Default,,0,0,0,,Các kỹ sư đang nghiên cứu các vật liệu như graphene và nitride gallium,
+Dialogue: 0,0:02:58.30,0:03:01.22,Default,,0,0,0,,nhằm tạo ra các chip hiệu quả hơn nữa.
+Dialogue: 0,0:03:02.34,0:03:06.78,Default,,0,0,0,,Nhỏ bé nhưng mạnh mẽ, vi mạch đang vận hành thế giới số khổng lồ của chúng ta.
+Dialogue: 0,0:03:07.40,0:03:10.80,Default,,0,0,0,,Mỗi cú click, vuốt hay tiếng beep đều
+Dialogue: 0,0:03:10.80,0:03:13.86,Default,,0,0,0,,là điệu nhảy của các transistor trên mảnh silicon nhỏ bé.
